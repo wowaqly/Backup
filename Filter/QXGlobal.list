@@ -2,799 +2,799 @@
 # Backup fo "https://github.com/ConnersHua/Profiles/blob/master/Quantumult/X/Filter/GlobalMedia.list"
 # (DNS Cache Pollution Protection)
 # > Google
-DOMAIN-SUFFIX,pki.goog,Maying
-DOMAIN-SUFFIX,ampproject.org,Maying
-DOMAIN-SUFFIX,appspot.com,Maying
-DOMAIN-SUFFIX,blogger.com,Maying
-DOMAIN-SUFFIX,getoutline.org,Maying
-DOMAIN-SUFFIX,gvt0.com,Maying
-DOMAIN-SUFFIX,gvt1.com,Maying
-DOMAIN-SUFFIX,gvt3.com,Maying
-DOMAIN-SUFFIX,xn--ngstr-lra8j.com,Maying
-DOMAIN-KEYWORD,google,Maying
-DOMAIN-KEYWORD,blogspot,Maying
+DOMAIN-SUFFIX,pki.goog,🌏 全球
+DOMAIN-SUFFIX,ampproject.org,🌏 全球
+DOMAIN-SUFFIX,appspot.com,🌏 全球
+DOMAIN-SUFFIX,blogger.com,🌏 全球
+DOMAIN-SUFFIX,getoutline.org,🌏 全球
+DOMAIN-SUFFIX,gvt0.com,🌏 全球
+DOMAIN-SUFFIX,gvt1.com,🌏 全球
+DOMAIN-SUFFIX,gvt3.com,🌏 全球
+DOMAIN-SUFFIX,xn--ngstr-lra8j.com,🌏 全球
+DOMAIN-KEYWORD,google,🌏 全球
+DOMAIN-KEYWORD,blogspot,🌏 全球
 # (DNS Cache Pollution Protection)
-DOMAIN-SUFFIX,blogger.com,Maying
-DOMAIN-SUFFIX,xn--ngstr-lra8j.com,Maying
-DOMAIN-KEYWORD,google,Maying
-DOMAIN-KEYWORD,blogspot,Maying
+DOMAIN-SUFFIX,blogger.com,🌏 全球
+DOMAIN-SUFFIX,xn--ngstr-lra8j.com,🌏 全球
+DOMAIN-KEYWORD,google,🌏 全球
+DOMAIN-KEYWORD,blogspot,🌏 全球
 # > Microsoft
-DOMAIN-SUFFIX,onedrive.live.com,Maying
-DOMAIN-SUFFIX,xboxlive.com,Maying
+DOMAIN-SUFFIX,onedrive.live.com,🌏 全球
+DOMAIN-SUFFIX,xboxlive.com,🌏 全球
 # > Facebook
-DOMAIN-SUFFIX,cdninstagram.com,Maying
-DOMAIN-SUFFIX,fb.com,Maying
-DOMAIN-SUFFIX,fb.me,Maying
-DOMAIN-SUFFIX,fbaddins.com,Maying
-DOMAIN-SUFFIX,fbcdn.net,Maying
-DOMAIN-SUFFIX,fbsbx.com,Maying
-DOMAIN-SUFFIX,fbworkmail.com,Maying
-DOMAIN-SUFFIX,instagram.com,Maying
-DOMAIN-SUFFIX,m.me,Maying
-DOMAIN-SUFFIX,messenger.com,Maying
-DOMAIN-SUFFIX,oculus.com,Maying
-DOMAIN-SUFFIX,oculuscdn.com,Maying
-DOMAIN-SUFFIX,rocksdb.org,Maying
-DOMAIN-SUFFIX,whatsapp.com,Maying
-DOMAIN-SUFFIX,whatsapp.net,Maying
-DOMAIN-KEYWORD,facebook,Maying
-IP-CIDR,3.123.36.126/32,Maying
-IP-CIDR,35.157.215.84/32,Maying
-IP-CIDR,35.157.217.255/32,Maying
-IP-CIDR,52.58.209.134/32,Maying
-IP-CIDR,54.93.124.31/32,Maying
-IP-CIDR,54.162.243.80/32,Maying
-IP-CIDR,54.173.34.141/32,Maying
-IP-CIDR,54.235.23.242/32,Maying
-IP-CIDR,169.45.248.118/32,Maying
+DOMAIN-SUFFIX,cdninstagram.com,🌏 全球
+DOMAIN-SUFFIX,fb.com,🌏 全球
+DOMAIN-SUFFIX,fb.me,🌏 全球
+DOMAIN-SUFFIX,fbaddins.com,🌏 全球
+DOMAIN-SUFFIX,fbcdn.net,🌏 全球
+DOMAIN-SUFFIX,fbsbx.com,🌏 全球
+DOMAIN-SUFFIX,fbworkmail.com,🌏 全球
+DOMAIN-SUFFIX,instagram.com,🌏 全球
+DOMAIN-SUFFIX,m.me,🌏 全球
+DOMAIN-SUFFIX,messenger.com,🌏 全球
+DOMAIN-SUFFIX,oculus.com,🌏 全球
+DOMAIN-SUFFIX,oculuscdn.com,🌏 全球
+DOMAIN-SUFFIX,rocksdb.org,🌏 全球
+DOMAIN-SUFFIX,whatsapp.com,🌏 全球
+DOMAIN-SUFFIX,whatsapp.net,🌏 全球
+DOMAIN-KEYWORD,facebook,🌏 全球
+IP-CIDR,3.123.36.126/32,🌏 全球
+IP-CIDR,35.157.215.84/32,🌏 全球
+IP-CIDR,35.157.217.255/32,🌏 全球
+IP-CIDR,52.58.209.134/32,🌏 全球
+IP-CIDR,54.93.124.31/32,🌏 全球
+IP-CIDR,54.162.243.80/32,🌏 全球
+IP-CIDR,54.173.34.141/32,🌏 全球
+IP-CIDR,54.235.23.242/32,🌏 全球
+IP-CIDR,169.45.248.118/32,🌏 全球
 # > Twitter
-DOMAIN-SUFFIX,pscp.tv,Maying
-DOMAIN-SUFFIX,periscope.tv,Maying
-DOMAIN-SUFFIX,t.co,Maying
-DOMAIN-SUFFIX,twimg.co,Maying
-DOMAIN-SUFFIX,twimg.com,Maying
-DOMAIN-SUFFIX,twitpic.com,Maying
-DOMAIN-SUFFIX,vine.co,Maying
-DOMAIN-KEYWORD,twitter,Maying
+DOMAIN-SUFFIX,pscp.tv,🌏 全球
+DOMAIN-SUFFIX,periscope.tv,🌏 全球
+DOMAIN-SUFFIX,t.co,🌏 全球
+DOMAIN-SUFFIX,twimg.co,🌏 全球
+DOMAIN-SUFFIX,twimg.com,🌏 全球
+DOMAIN-SUFFIX,twitpic.com,🌏 全球
+DOMAIN-SUFFIX,vine.co,🌏 全球
+DOMAIN-KEYWORD,twitter,🌏 全球
 # > Telegram
-DOMAIN-SUFFIX,t.me,Maying
-DOMAIN-SUFFIX,tdesktop.com,Maying
-DOMAIN-SUFFIX,telegra.ph,Maying
-DOMAIN-SUFFIX,telegram.me,Maying
-DOMAIN-SUFFIX,telegram.org,Maying
-DOMAIN-SUFFIX,telesco.pe,Maying
-IP-CIDR,91.108.4.0/22,Maying
-IP-CIDR,91.108.8.0/22,Maying
-IP-CIDR,91.108.12.0/22,Maying
-IP-CIDR,91.108.16.0/22,Maying
-IP-CIDR,91.108.56.0/22,Maying
-IP-CIDR,149.154.160.0/20,Maying
+DOMAIN-SUFFIX,t.me,🌏 全球
+DOMAIN-SUFFIX,tdesktop.com,🌏 全球
+DOMAIN-SUFFIX,telegra.ph,🌏 全球
+DOMAIN-SUFFIX,telegram.me,🌏 全球
+DOMAIN-SUFFIX,telegram.org,🌏 全球
+DOMAIN-SUFFIX,telesco.pe,🌏 全球
+IP-CIDR,91.108.4.0/22,🌏 全球
+IP-CIDR,91.108.8.0/22,🌏 全球
+IP-CIDR,91.108.12.0/22,🌏 全球
+IP-CIDR,91.108.16.0/22,🌏 全球
+IP-CIDR,91.108.56.0/22,🌏 全球
+IP-CIDR,149.154.160.0/20,🌏 全球
 # > Line
-DOMAIN-SUFFIX,line.me,Maying
-DOMAIN-SUFFIX,line-apps.com,Maying
-DOMAIN-SUFFIX,line-scdn.net,Maying
-DOMAIN-SUFFIX,naver.jp,Maying
-IP-CIDR,103.2.30.0/23,Maying
-IP-CIDR,125.209.208.0/20,Maying
-IP-CIDR,147.92.128.0/17,Maying
-IP-CIDR,203.104.144.0/21,Maying
+DOMAIN-SUFFIX,line.me,🌏 全球
+DOMAIN-SUFFIX,line-apps.com,🌏 全球
+DOMAIN-SUFFIX,line-scdn.net,🌏 全球
+DOMAIN-SUFFIX,naver.jp,🌏 全球
+IP-CIDR,103.2.30.0/23,🌏 全球
+IP-CIDR,125.209.208.0/20,🌏 全球
+IP-CIDR,147.92.128.0/17,🌏 全球
+IP-CIDR,203.104.144.0/21,🌏 全球
 # > Other
-DOMAIN-SUFFIX,4shared.com,Maying
-DOMAIN-SUFFIX,520cc.cc,Maying
-DOMAIN-SUFFIX,881903.com,Maying
-DOMAIN-SUFFIX,9cache.com,Maying
-DOMAIN-SUFFIX,9gag.com,Maying
-DOMAIN-SUFFIX,abc.com,Maying
-DOMAIN-SUFFIX,abc.net.au,Maying
-DOMAIN-SUFFIX,abebooks.com,Maying
-DOMAIN-SUFFIX,amazon.co.jp,Maying
-DOMAIN-SUFFIX,apigee.com,Maying
-DOMAIN-SUFFIX,apk-dl.com,Maying
-DOMAIN-SUFFIX,apkfind.com,Maying
-DOMAIN-SUFFIX,apkmirror.com,Maying
-DOMAIN-SUFFIX,apkmonk.com,Maying
-DOMAIN-SUFFIX,apkpure.com,Maying
-DOMAIN-SUFFIX,aptoide.com,Maying
-DOMAIN-SUFFIX,archive.is,Maying
-DOMAIN-SUFFIX,archive.org,Maying
-DOMAIN-SUFFIX,arte.tv,Maying
-DOMAIN-SUFFIX,artstation.com,Maying
-DOMAIN-SUFFIX,arukas.io,Maying
-DOMAIN-SUFFIX,ask.com,Maying
-DOMAIN-SUFFIX,avg.com,Maying
-DOMAIN-SUFFIX,avgle.com,Maying
-DOMAIN-SUFFIX,badoo.com,Maying
-DOMAIN-SUFFIX,bandwagonhost.com,Maying
-DOMAIN-SUFFIX,bbc.com,Maying
-DOMAIN-SUFFIX,behance.net,Maying
-DOMAIN-SUFFIX,bibox.com,Maying
-DOMAIN-SUFFIX,biggo.com.tw,Maying
-DOMAIN-SUFFIX,binance.com,Maying
-DOMAIN-SUFFIX,bitcointalk.org,Maying
-DOMAIN-SUFFIX,bitfinex.com,Maying
-DOMAIN-SUFFIX,bitmex.com,Maying
-DOMAIN-SUFFIX,bit-z.com,Maying
-DOMAIN-SUFFIX,bloglovin.com,Maying
-DOMAIN-SUFFIX,bloomberg.cn,Maying
-DOMAIN-SUFFIX,bloomberg.com,Maying
-DOMAIN-SUFFIX,blubrry.com,Maying
-DOMAIN-SUFFIX,book.com.tw,Maying
-DOMAIN-SUFFIX,booklive.jp,Maying
-DOMAIN-SUFFIX,books.com.tw,Maying
-DOMAIN-SUFFIX,boslife.net,Maying
-DOMAIN-SUFFIX,box.com,Maying
-DOMAIN-SUFFIX,businessinsider.com,Maying
-DOMAIN-SUFFIX,bwh1.net,Maying
-DOMAIN-SUFFIX,castbox.fm,Maying
-DOMAIN-SUFFIX,cbc.ca,Maying
-DOMAIN-SUFFIX,cdw.com,Maying
-DOMAIN-SUFFIX,change.org,Maying
-DOMAIN-SUFFIX,channelnewsasia.com,Maying
-DOMAIN-SUFFIX,ck101.com,Maying
-DOMAIN-SUFFIX,clarionproject.org,Maying
-DOMAIN-SUFFIX,clyp.it,Maying
-DOMAIN-SUFFIX,cna.com.tw,Maying
-DOMAIN-SUFFIX,comparitech.com,Maying
-DOMAIN-SUFFIX,conoha.jp,Maying
-DOMAIN-SUFFIX,crucial.com,Maying
-DOMAIN-SUFFIX,cts.com.tw,Maying
-DOMAIN-SUFFIX,cw.com.tw,Maying
-DOMAIN-SUFFIX,cyberctm.com,Maying
-DOMAIN-SUFFIX,dailymotion.com,Maying
-DOMAIN-SUFFIX,dailyview.tw,Maying
-DOMAIN-SUFFIX,daum.net,Maying
-DOMAIN-SUFFIX,daumcdn.net,Maying
-DOMAIN-SUFFIX,dcard.tw,Maying
-DOMAIN-SUFFIX,deepdiscount.com,Maying
-DOMAIN-SUFFIX,depositphotos.com,Maying
-DOMAIN-SUFFIX,deviantart.com,Maying
-DOMAIN-SUFFIX,disconnect.me,Maying
-DOMAIN-SUFFIX,discordapp.com,Maying
-DOMAIN-SUFFIX,discordapp.net,Maying
-DOMAIN-SUFFIX,disqus.com,Maying
-DOMAIN-SUFFIX,dlercloud.com,Maying
-DOMAIN-SUFFIX,dns2go.com,Maying
-DOMAIN-SUFFIX,dowjones.com,Maying
-DOMAIN-SUFFIX,dropbox.com,Maying
-DOMAIN-SUFFIX,dropboxusercontent.com,Maying
-DOMAIN-SUFFIX,duckduckgo.com,Maying
-DOMAIN-SUFFIX,dw.com,Maying
-DOMAIN-SUFFIX,dynu.com,Maying
-DOMAIN-SUFFIX,earthcam.com,Maying
-DOMAIN-SUFFIX,ebookservice.tw,Maying
-DOMAIN-SUFFIX,economist.com,Maying
-DOMAIN-SUFFIX,edgecastcdn.net,Maying
-DOMAIN-SUFFIX,edu,Maying
-DOMAIN-SUFFIX,elpais.com,Maying
-DOMAIN-SUFFIX,enanyang.my,Maying
-DOMAIN-SUFFIX,encyclopedia.com,Maying
-DOMAIN-SUFFIX,esoir.be,Maying
-DOMAIN-SUFFIX,etherscan.io,Maying
-DOMAIN-SUFFIX,euronews.com,Maying
-DOMAIN-SUFFIX,evozi.com,Maying
-DOMAIN-SUFFIX,feedly.com,Maying
-DOMAIN-SUFFIX,firech.at,Maying
-DOMAIN-SUFFIX,flickr.com,Maying
-DOMAIN-SUFFIX,flitto.com,Maying
-DOMAIN-SUFFIX,foreignpolicy.com,Maying
-DOMAIN-SUFFIX,freebrowser.org,Maying
-DOMAIN-SUFFIX,freewechat.com,Maying
-DOMAIN-SUFFIX,freeweibo.com,Maying
-DOMAIN-SUFFIX,friday.tw,Maying
-DOMAIN-SUFFIX,ftchinese.com,Maying
-DOMAIN-SUFFIX,ftimg.net,Maying
-DOMAIN-SUFFIX,gate.io,Maying
-DOMAIN-SUFFIX,getlantern.org,Maying
-DOMAIN-SUFFIX,getsync.com,Maying
-DOMAIN-SUFFIX,globalvoices.org,Maying
-DOMAIN-SUFFIX,goo.ne.jp,Maying
-DOMAIN-SUFFIX,goodreads.com,Maying
-DOMAIN-SUFFIX,gov,Maying
-DOMAIN-SUFFIX,gov.tw,Maying
-DOMAIN-SUFFIX,greatfire.org,Maying
-DOMAIN-SUFFIX,gumroad.com,Maying
-DOMAIN-SUFFIX,hbg.com,Maying
-DOMAIN-SUFFIX,heroku.com,Maying
-DOMAIN-SUFFIX,hightail.com,Maying
-DOMAIN-SUFFIX,hk01.com,Maying
-DOMAIN-SUFFIX,hkbf.org,Maying
-DOMAIN-SUFFIX,hkbookcity.com,Maying
-DOMAIN-SUFFIX,hkej.com,Maying
-DOMAIN-SUFFIX,hket.com,Maying
-DOMAIN-SUFFIX,hkgolden.com,Maying
-DOMAIN-SUFFIX,hootsuite.com,Maying
-DOMAIN-SUFFIX,hudson.org,Maying
-DOMAIN-SUFFIX,hyread.com.tw,Maying
-DOMAIN-SUFFIX,ibtimes.com,Maying
-DOMAIN-SUFFIX,i-cable.com,Maying
-DOMAIN-SUFFIX,icij.org,Maying
-DOMAIN-SUFFIX,icoco.com,Maying
-DOMAIN-SUFFIX,imgur.com,Maying
-DOMAIN-SUFFIX,initiummall.com,Maying
-DOMAIN-SUFFIX,inoreader.com,Maying
-DOMAIN-SUFFIX,insecam.org,Maying
-DOMAIN-SUFFIX,ipfs.io,Maying
-DOMAIN-SUFFIX,issuu.com,Maying
-DOMAIN-SUFFIX,istockphoto.com,Maying
-DOMAIN-SUFFIX,japantimes.co.jp,Maying
-DOMAIN-SUFFIX,jiji.com,Maying
-DOMAIN-SUFFIX,jinx.com,Maying
-DOMAIN-SUFFIX,jkforum.net,Maying
-DOMAIN-SUFFIX,joinmastodon.org,Maying
-DOMAIN-SUFFIX,justmysocks.net,Maying
-DOMAIN-SUFFIX,justpaste.it,Maying
-DOMAIN-SUFFIX,kakao.com,Maying
-DOMAIN-SUFFIX,kakaocorp.com,Maying
-DOMAIN-SUFFIX,kik.com,Maying
-DOMAIN-SUFFIX,kobo.com,Maying
-DOMAIN-SUFFIX,kobobooks.com,Maying
-DOMAIN-SUFFIX,kodingen.com,Maying
-DOMAIN-SUFFIX,lemonde.fr,Maying
-DOMAIN-SUFFIX,lepoint.fr,Maying
-DOMAIN-SUFFIX,lihkg.com,Maying
-DOMAIN-SUFFIX,listennotes.com,Maying
-DOMAIN-SUFFIX,livestream.com,Maying
-DOMAIN-SUFFIX,logmein.com,Maying
-DOMAIN-SUFFIX,mail.ru,Maying
-DOMAIN-SUFFIX,mailchimp.com,Maying
-DOMAIN-SUFFIX,marc.info,Maying
-DOMAIN-SUFFIX,matters.news,Maying
-DOMAIN-SUFFIX,maying.co,Maying
-DOMAIN-SUFFIX,medium.com,Maying
-DOMAIN-SUFFIX,mega.nz,Maying
-DOMAIN-SUFFIX,mil,Maying
-DOMAIN-SUFFIX,mingpao.com,Maying
-DOMAIN-SUFFIX,mobile01.com,Maying
-DOMAIN-SUFFIX,myspace.com,Maying
-DOMAIN-SUFFIX,myspacecdn.com,Maying
-DOMAIN-SUFFIX,nanyang.com,Maying
-DOMAIN-SUFFIX,naver.com,Maying
-DOMAIN-SUFFIX,neowin.net,Maying
-DOMAIN-SUFFIX,newstapa.org,Maying
-DOMAIN-SUFFIX,nexitally.com,Maying
-DOMAIN-SUFFIX,nhk.or.jp,Maying
-DOMAIN-SUFFIX,nii.ac.jp,Maying
-DOMAIN-SUFFIX,nikkei.com,Maying
-DOMAIN-SUFFIX,nofile.io,Maying
-DOMAIN-SUFFIX,now.com,Maying
-DOMAIN-SUFFIX,nrk.no,Maying
-DOMAIN-SUFFIX,nyt.com,Maying
-DOMAIN-SUFFIX,nytchina.com,Maying
-DOMAIN-SUFFIX,nytcn.me,Maying
-DOMAIN-SUFFIX,nytco.com,Maying
-DOMAIN-SUFFIX,nytimes.com,Maying
-DOMAIN-SUFFIX,nytimg.com,Maying
-DOMAIN-SUFFIX,nytlog.com,Maying
-DOMAIN-SUFFIX,nytstyle.com,Maying
-DOMAIN-SUFFIX,ok.ru,Maying
-DOMAIN-SUFFIX,okex.com,Maying
-DOMAIN-SUFFIX,on.cc,Maying
-DOMAIN-SUFFIX,orientaldaily.com.my,Maying
-DOMAIN-SUFFIX,overcast.fm,Maying
-DOMAIN-SUFFIX,paltalk.com,Maying
-DOMAIN-SUFFIX,pao-pao.net,Maying
-DOMAIN-SUFFIX,parsevideo.com,Maying
-DOMAIN-SUFFIX,pbxes.com,Maying
-DOMAIN-SUFFIX,pcdvd.com.tw,Maying
-DOMAIN-SUFFIX,pchome.com.tw,Maying
-DOMAIN-SUFFIX,pcloud.com,Maying
-DOMAIN-SUFFIX,picacomic.com,Maying
-DOMAIN-SUFFIX,pinimg.com,Maying
-DOMAIN-SUFFIX,pixiv.net,Maying
-DOMAIN-SUFFIX,player.fm,Maying
-DOMAIN-SUFFIX,plurk.com,Maying
-DOMAIN-SUFFIX,po18.tw,Maying
-DOMAIN-SUFFIX,potato.im,Maying
-DOMAIN-SUFFIX,potatso.com,Maying
-DOMAIN-SUFFIX,prism-break.org,Maying
-DOMAIN-SUFFIX,proxifier.com,Maying
-DOMAIN-SUFFIX,pt.im,Maying
-DOMAIN-SUFFIX,pts.org.tw,Maying
-DOMAIN-SUFFIX,pubu.com.tw,Maying
-DOMAIN-SUFFIX,pubu.tw,Maying
-DOMAIN-SUFFIX,pureapk.com,Maying
-DOMAIN-SUFFIX,quora.com,Maying
-DOMAIN-SUFFIX,quoracdn.net,Maying
-DOMAIN-SUFFIX,rakuten.co.jp,Maying
-DOMAIN-SUFFIX,readingtimes.com.tw,Maying
-DOMAIN-SUFFIX,readmoo.com,Maying
-DOMAIN-SUFFIX,redbubble.com,Maying
-DOMAIN-SUFFIX,reddit.com,Maying
-DOMAIN-SUFFIX,redditmedia.com,Maying
-DOMAIN-SUFFIX,redditstatic.com,Maying
-DOMAIN-SUFFIX,resilio.com,Maying
-DOMAIN-SUFFIX,reuters.com,Maying
-DOMAIN-SUFFIX,reutersmedia.net,Maying
-DOMAIN-SUFFIX,rfi.fr,Maying
-DOMAIN-SUFFIX,rixcloud.com,Maying
-DOMAIN-SUFFIX,roadshow.hk,Maying
-DOMAIN-SUFFIX,scmp.com,Maying
-DOMAIN-SUFFIX,scribd.com,Maying
-DOMAIN-SUFFIX,seatguru.com,Maying
-DOMAIN-SUFFIX,shadowsocks.org,Maying
-DOMAIN-SUFFIX,shopee.tw,Maying
-DOMAIN-SUFFIX,slideshare.net,Maying
-DOMAIN-SUFFIX,softfamous.com,Maying
-DOMAIN-SUFFIX,ssrcloud.org,Maying
-DOMAIN-SUFFIX,startpage.com,Maying
-DOMAIN-SUFFIX,steamcommunity.com,Maying
-DOMAIN-SUFFIX,steemit.com,Maying
-DOMAIN-SUFFIX,steemitwallet.com,Maying
-DOMAIN-SUFFIX,t66y.com,Maying
-DOMAIN-SUFFIX,tapatalk.com,Maying
-DOMAIN-SUFFIX,teco-hk.org,Maying
-DOMAIN-SUFFIX,teco-mo.org,Maying
-DOMAIN-SUFFIX,teddysun.com,Maying
-DOMAIN-SUFFIX,textnow.me,Maying
-DOMAIN-SUFFIX,theguardian.com,Maying
-DOMAIN-SUFFIX,theinitium.com,Maying
-DOMAIN-SUFFIX,thetvdb.com,Maying
-DOMAIN-SUFFIX,tineye.com,Maying
-DOMAIN-SUFFIX,torproject.org,Maying
-DOMAIN-SUFFIX,tumblr.com,Maying
-DOMAIN-SUFFIX,turbobit.net,Maying
-DOMAIN-SUFFIX,tutanota.com,Maying
-DOMAIN-SUFFIX,tvboxnow.com,Maying
-DOMAIN-SUFFIX,udn.com,Maying
-DOMAIN-SUFFIX,unseen.is,Maying
-DOMAIN-SUFFIX,upmedia.mg,Maying
-DOMAIN-SUFFIX,uptodown.com,Maying
-DOMAIN-SUFFIX,urbandictionary.com,Maying
-DOMAIN-SUFFIX,ustream.tv,Maying
-DOMAIN-SUFFIX,uwants.com,Maying
-DOMAIN-SUFFIX,v2ray.com,Maying
-DOMAIN-SUFFIX,viber.com,Maying
-DOMAIN-SUFFIX,videopress.com,Maying
-DOMAIN-SUFFIX,vimeo.com,Maying
-DOMAIN-SUFFIX,voachinese.com,Maying
-DOMAIN-SUFFIX,voanews.com,Maying
-DOMAIN-SUFFIX,voxer.com,Maying
-DOMAIN-SUFFIX,vzw.com,Maying
-DOMAIN-SUFFIX,w3schools.com,Maying
-DOMAIN-SUFFIX,washingtonpost.com,Maying
-DOMAIN-SUFFIX,wattpad.com,Maying
-DOMAIN-SUFFIX,whoer.net,Maying
-DOMAIN-SUFFIX,wikimapia.org,Maying
-DOMAIN-SUFFIX,wikimedia.org,Maying
-DOMAIN-SUFFIX,wikipedia.org,Maying
-DOMAIN-SUFFIX,wikiquote.org,Maying
-DOMAIN-SUFFIX,wikiwand.com,Maying
-DOMAIN-SUFFIX,winudf.com,Maying
-DOMAIN-SUFFIX,wire.com,Maying
-DOMAIN-SUFFIX,wordpress.com,Maying
-DOMAIN-SUFFIX,workflow.is,Maying
-DOMAIN-SUFFIX,worldcat.org,Maying
-DOMAIN-SUFFIX,wsj.com,Maying
-DOMAIN-SUFFIX,wsj.net,Maying
-DOMAIN-SUFFIX,xhamster.com,Maying
-DOMAIN-SUFFIX,xn--90wwvt03e.com,Maying
-DOMAIN-SUFFIX,xn--i2ru8q2qg.com,Maying
-DOMAIN-SUFFIX,xnxx.com,Maying
-DOMAIN-SUFFIX,xvideos.com,Maying
-DOMAIN-SUFFIX,yahoo.com,Maying
-DOMAIN-SUFFIX,yandex.ru,Maying
-DOMAIN-SUFFIX,ycombinator.com,Maying
-DOMAIN-SUFFIX,yesasia.com,Maying
-DOMAIN-SUFFIX,yes-news.com,Maying
-DOMAIN-SUFFIX,yomiuri.co.jp,Maying
-DOMAIN-SUFFIX,you-get.org,Maying
-DOMAIN-SUFFIX,zaobao.com,Maying
-DOMAIN-SUFFIX,zb.com,Maying
-DOMAIN-SUFFIX,zello.com,Maying
-DOMAIN-SUFFIX,zeronet.io,Maying
-DOMAIN-SUFFIX,zoom.us,Maying
-DOMAIN-KEYWORD,github,Maying
-DOMAIN-KEYWORD,jav,Maying
-DOMAIN-KEYWORD,pinterest,Maying
-DOMAIN-KEYWORD,porn,Maying
-DOMAIN-KEYWORD,wikileaks,Maying
+DOMAIN-SUFFIX,4shared.com,🌏 全球
+DOMAIN-SUFFIX,520cc.cc,🌏 全球
+DOMAIN-SUFFIX,881903.com,🌏 全球
+DOMAIN-SUFFIX,9cache.com,🌏 全球
+DOMAIN-SUFFIX,9gag.com,🌏 全球
+DOMAIN-SUFFIX,abc.com,🌏 全球
+DOMAIN-SUFFIX,abc.net.au,🌏 全球
+DOMAIN-SUFFIX,abebooks.com,🌏 全球
+DOMAIN-SUFFIX,amazon.co.jp,🌏 全球
+DOMAIN-SUFFIX,apigee.com,🌏 全球
+DOMAIN-SUFFIX,apk-dl.com,🌏 全球
+DOMAIN-SUFFIX,apkfind.com,🌏 全球
+DOMAIN-SUFFIX,apkmirror.com,🌏 全球
+DOMAIN-SUFFIX,apkmonk.com,🌏 全球
+DOMAIN-SUFFIX,apkpure.com,🌏 全球
+DOMAIN-SUFFIX,aptoide.com,🌏 全球
+DOMAIN-SUFFIX,archive.is,🌏 全球
+DOMAIN-SUFFIX,archive.org,🌏 全球
+DOMAIN-SUFFIX,arte.tv,🌏 全球
+DOMAIN-SUFFIX,artstation.com,🌏 全球
+DOMAIN-SUFFIX,arukas.io,🌏 全球
+DOMAIN-SUFFIX,ask.com,🌏 全球
+DOMAIN-SUFFIX,avg.com,🌏 全球
+DOMAIN-SUFFIX,avgle.com,🌏 全球
+DOMAIN-SUFFIX,badoo.com,🌏 全球
+DOMAIN-SUFFIX,bandwagonhost.com,🌏 全球
+DOMAIN-SUFFIX,bbc.com,🌏 全球
+DOMAIN-SUFFIX,behance.net,🌏 全球
+DOMAIN-SUFFIX,bibox.com,🌏 全球
+DOMAIN-SUFFIX,biggo.com.tw,🌏 全球
+DOMAIN-SUFFIX,binance.com,🌏 全球
+DOMAIN-SUFFIX,bitcointalk.org,🌏 全球
+DOMAIN-SUFFIX,bitfinex.com,🌏 全球
+DOMAIN-SUFFIX,bitmex.com,🌏 全球
+DOMAIN-SUFFIX,bit-z.com,🌏 全球
+DOMAIN-SUFFIX,bloglovin.com,🌏 全球
+DOMAIN-SUFFIX,bloomberg.cn,🌏 全球
+DOMAIN-SUFFIX,bloomberg.com,🌏 全球
+DOMAIN-SUFFIX,blubrry.com,🌏 全球
+DOMAIN-SUFFIX,book.com.tw,🌏 全球
+DOMAIN-SUFFIX,booklive.jp,🌏 全球
+DOMAIN-SUFFIX,books.com.tw,🌏 全球
+DOMAIN-SUFFIX,boslife.net,🌏 全球
+DOMAIN-SUFFIX,box.com,🌏 全球
+DOMAIN-SUFFIX,businessinsider.com,🌏 全球
+DOMAIN-SUFFIX,bwh1.net,🌏 全球
+DOMAIN-SUFFIX,castbox.fm,🌏 全球
+DOMAIN-SUFFIX,cbc.ca,🌏 全球
+DOMAIN-SUFFIX,cdw.com,🌏 全球
+DOMAIN-SUFFIX,change.org,🌏 全球
+DOMAIN-SUFFIX,channelnewsasia.com,🌏 全球
+DOMAIN-SUFFIX,ck101.com,🌏 全球
+DOMAIN-SUFFIX,clarionproject.org,🌏 全球
+DOMAIN-SUFFIX,clyp.it,🌏 全球
+DOMAIN-SUFFIX,cna.com.tw,🌏 全球
+DOMAIN-SUFFIX,comparitech.com,🌏 全球
+DOMAIN-SUFFIX,conoha.jp,🌏 全球
+DOMAIN-SUFFIX,crucial.com,🌏 全球
+DOMAIN-SUFFIX,cts.com.tw,🌏 全球
+DOMAIN-SUFFIX,cw.com.tw,🌏 全球
+DOMAIN-SUFFIX,cyberctm.com,🌏 全球
+DOMAIN-SUFFIX,dailymotion.com,🌏 全球
+DOMAIN-SUFFIX,dailyview.tw,🌏 全球
+DOMAIN-SUFFIX,daum.net,🌏 全球
+DOMAIN-SUFFIX,daumcdn.net,🌏 全球
+DOMAIN-SUFFIX,dcard.tw,🌏 全球
+DOMAIN-SUFFIX,deepdiscount.com,🌏 全球
+DOMAIN-SUFFIX,depositphotos.com,🌏 全球
+DOMAIN-SUFFIX,deviantart.com,🌏 全球
+DOMAIN-SUFFIX,disconnect.me,🌏 全球
+DOMAIN-SUFFIX,discordapp.com,🌏 全球
+DOMAIN-SUFFIX,discordapp.net,🌏 全球
+DOMAIN-SUFFIX,disqus.com,🌏 全球
+DOMAIN-SUFFIX,dlercloud.com,🌏 全球
+DOMAIN-SUFFIX,dns2go.com,🌏 全球
+DOMAIN-SUFFIX,dowjones.com,🌏 全球
+DOMAIN-SUFFIX,dropbox.com,🌏 全球
+DOMAIN-SUFFIX,dropboxusercontent.com,🌏 全球
+DOMAIN-SUFFIX,duckduckgo.com,🌏 全球
+DOMAIN-SUFFIX,dw.com,🌏 全球
+DOMAIN-SUFFIX,dynu.com,🌏 全球
+DOMAIN-SUFFIX,earthcam.com,🌏 全球
+DOMAIN-SUFFIX,ebookservice.tw,🌏 全球
+DOMAIN-SUFFIX,economist.com,🌏 全球
+DOMAIN-SUFFIX,edgecastcdn.net,🌏 全球
+DOMAIN-SUFFIX,edu,🌏 全球
+DOMAIN-SUFFIX,elpais.com,🌏 全球
+DOMAIN-SUFFIX,enanyang.my,🌏 全球
+DOMAIN-SUFFIX,encyclopedia.com,🌏 全球
+DOMAIN-SUFFIX,esoir.be,🌏 全球
+DOMAIN-SUFFIX,etherscan.io,🌏 全球
+DOMAIN-SUFFIX,euronews.com,🌏 全球
+DOMAIN-SUFFIX,evozi.com,🌏 全球
+DOMAIN-SUFFIX,feedly.com,🌏 全球
+DOMAIN-SUFFIX,firech.at,🌏 全球
+DOMAIN-SUFFIX,flickr.com,🌏 全球
+DOMAIN-SUFFIX,flitto.com,🌏 全球
+DOMAIN-SUFFIX,foreignpolicy.com,🌏 全球
+DOMAIN-SUFFIX,freebrowser.org,🌏 全球
+DOMAIN-SUFFIX,freewechat.com,🌏 全球
+DOMAIN-SUFFIX,freeweibo.com,🌏 全球
+DOMAIN-SUFFIX,friday.tw,🌏 全球
+DOMAIN-SUFFIX,ftchinese.com,🌏 全球
+DOMAIN-SUFFIX,ftimg.net,🌏 全球
+DOMAIN-SUFFIX,gate.io,🌏 全球
+DOMAIN-SUFFIX,getlantern.org,🌏 全球
+DOMAIN-SUFFIX,getsync.com,🌏 全球
+DOMAIN-SUFFIX,globalvoices.org,🌏 全球
+DOMAIN-SUFFIX,goo.ne.jp,🌏 全球
+DOMAIN-SUFFIX,goodreads.com,🌏 全球
+DOMAIN-SUFFIX,gov,🌏 全球
+DOMAIN-SUFFIX,gov.tw,🌏 全球
+DOMAIN-SUFFIX,greatfire.org,🌏 全球
+DOMAIN-SUFFIX,gumroad.com,🌏 全球
+DOMAIN-SUFFIX,hbg.com,🌏 全球
+DOMAIN-SUFFIX,heroku.com,🌏 全球
+DOMAIN-SUFFIX,hightail.com,🌏 全球
+DOMAIN-SUFFIX,hk01.com,🌏 全球
+DOMAIN-SUFFIX,hkbf.org,🌏 全球
+DOMAIN-SUFFIX,hkbookcity.com,🌏 全球
+DOMAIN-SUFFIX,hkej.com,🌏 全球
+DOMAIN-SUFFIX,hket.com,🌏 全球
+DOMAIN-SUFFIX,hkgolden.com,🌏 全球
+DOMAIN-SUFFIX,hootsuite.com,🌏 全球
+DOMAIN-SUFFIX,hudson.org,🌏 全球
+DOMAIN-SUFFIX,hyread.com.tw,🌏 全球
+DOMAIN-SUFFIX,ibtimes.com,🌏 全球
+DOMAIN-SUFFIX,i-cable.com,🌏 全球
+DOMAIN-SUFFIX,icij.org,🌏 全球
+DOMAIN-SUFFIX,icoco.com,🌏 全球
+DOMAIN-SUFFIX,imgur.com,🌏 全球
+DOMAIN-SUFFIX,initiummall.com,🌏 全球
+DOMAIN-SUFFIX,inoreader.com,🌏 全球
+DOMAIN-SUFFIX,insecam.org,🌏 全球
+DOMAIN-SUFFIX,ipfs.io,🌏 全球
+DOMAIN-SUFFIX,issuu.com,🌏 全球
+DOMAIN-SUFFIX,istockphoto.com,🌏 全球
+DOMAIN-SUFFIX,japantimes.co.jp,🌏 全球
+DOMAIN-SUFFIX,jiji.com,🌏 全球
+DOMAIN-SUFFIX,jinx.com,🌏 全球
+DOMAIN-SUFFIX,jkforum.net,🌏 全球
+DOMAIN-SUFFIX,joinmastodon.org,🌏 全球
+DOMAIN-SUFFIX,justmysocks.net,🌏 全球
+DOMAIN-SUFFIX,justpaste.it,🌏 全球
+DOMAIN-SUFFIX,kakao.com,🌏 全球
+DOMAIN-SUFFIX,kakaocorp.com,🌏 全球
+DOMAIN-SUFFIX,kik.com,🌏 全球
+DOMAIN-SUFFIX,kobo.com,🌏 全球
+DOMAIN-SUFFIX,kobobooks.com,🌏 全球
+DOMAIN-SUFFIX,kodingen.com,🌏 全球
+DOMAIN-SUFFIX,lemonde.fr,🌏 全球
+DOMAIN-SUFFIX,lepoint.fr,🌏 全球
+DOMAIN-SUFFIX,lihkg.com,🌏 全球
+DOMAIN-SUFFIX,listennotes.com,🌏 全球
+DOMAIN-SUFFIX,livestream.com,🌏 全球
+DOMAIN-SUFFIX,logmein.com,🌏 全球
+DOMAIN-SUFFIX,mail.ru,🌏 全球
+DOMAIN-SUFFIX,mailchimp.com,🌏 全球
+DOMAIN-SUFFIX,marc.info,🌏 全球
+DOMAIN-SUFFIX,matters.news,🌏 全球
+DOMAIN-SUFFIX,maying.co,🌏 全球
+DOMAIN-SUFFIX,medium.com,🌏 全球
+DOMAIN-SUFFIX,mega.nz,🌏 全球
+DOMAIN-SUFFIX,mil,🌏 全球
+DOMAIN-SUFFIX,mingpao.com,🌏 全球
+DOMAIN-SUFFIX,mobile01.com,🌏 全球
+DOMAIN-SUFFIX,myspace.com,🌏 全球
+DOMAIN-SUFFIX,myspacecdn.com,🌏 全球
+DOMAIN-SUFFIX,nanyang.com,🌏 全球
+DOMAIN-SUFFIX,naver.com,🌏 全球
+DOMAIN-SUFFIX,neowin.net,🌏 全球
+DOMAIN-SUFFIX,newstapa.org,🌏 全球
+DOMAIN-SUFFIX,nexitally.com,🌏 全球
+DOMAIN-SUFFIX,nhk.or.jp,🌏 全球
+DOMAIN-SUFFIX,nii.ac.jp,🌏 全球
+DOMAIN-SUFFIX,nikkei.com,🌏 全球
+DOMAIN-SUFFIX,nofile.io,🌏 全球
+DOMAIN-SUFFIX,now.com,🌏 全球
+DOMAIN-SUFFIX,nrk.no,🌏 全球
+DOMAIN-SUFFIX,nyt.com,🌏 全球
+DOMAIN-SUFFIX,nytchina.com,🌏 全球
+DOMAIN-SUFFIX,nytcn.me,🌏 全球
+DOMAIN-SUFFIX,nytco.com,🌏 全球
+DOMAIN-SUFFIX,nytimes.com,🌏 全球
+DOMAIN-SUFFIX,nytimg.com,🌏 全球
+DOMAIN-SUFFIX,nytlog.com,🌏 全球
+DOMAIN-SUFFIX,nytstyle.com,🌏 全球
+DOMAIN-SUFFIX,ok.ru,🌏 全球
+DOMAIN-SUFFIX,okex.com,🌏 全球
+DOMAIN-SUFFIX,on.cc,🌏 全球
+DOMAIN-SUFFIX,orientaldaily.com.my,🌏 全球
+DOMAIN-SUFFIX,overcast.fm,🌏 全球
+DOMAIN-SUFFIX,paltalk.com,🌏 全球
+DOMAIN-SUFFIX,pao-pao.net,🌏 全球
+DOMAIN-SUFFIX,parsevideo.com,🌏 全球
+DOMAIN-SUFFIX,pbxes.com,🌏 全球
+DOMAIN-SUFFIX,pcdvd.com.tw,🌏 全球
+DOMAIN-SUFFIX,pchome.com.tw,🌏 全球
+DOMAIN-SUFFIX,pcloud.com,🌏 全球
+DOMAIN-SUFFIX,picacomic.com,🌏 全球
+DOMAIN-SUFFIX,pinimg.com,🌏 全球
+DOMAIN-SUFFIX,pixiv.net,🌏 全球
+DOMAIN-SUFFIX,player.fm,🌏 全球
+DOMAIN-SUFFIX,plurk.com,🌏 全球
+DOMAIN-SUFFIX,po18.tw,🌏 全球
+DOMAIN-SUFFIX,potato.im,🌏 全球
+DOMAIN-SUFFIX,potatso.com,🌏 全球
+DOMAIN-SUFFIX,prism-break.org,🌏 全球
+DOMAIN-SUFFIX,proxifier.com,🌏 全球
+DOMAIN-SUFFIX,pt.im,🌏 全球
+DOMAIN-SUFFIX,pts.org.tw,🌏 全球
+DOMAIN-SUFFIX,pubu.com.tw,🌏 全球
+DOMAIN-SUFFIX,pubu.tw,🌏 全球
+DOMAIN-SUFFIX,pureapk.com,🌏 全球
+DOMAIN-SUFFIX,quora.com,🌏 全球
+DOMAIN-SUFFIX,quoracdn.net,🌏 全球
+DOMAIN-SUFFIX,rakuten.co.jp,🌏 全球
+DOMAIN-SUFFIX,readingtimes.com.tw,🌏 全球
+DOMAIN-SUFFIX,readmoo.com,🌏 全球
+DOMAIN-SUFFIX,redbubble.com,🌏 全球
+DOMAIN-SUFFIX,reddit.com,🌏 全球
+DOMAIN-SUFFIX,redditmedia.com,🌏 全球
+DOMAIN-SUFFIX,redditstatic.com,🌏 全球
+DOMAIN-SUFFIX,resilio.com,🌏 全球
+DOMAIN-SUFFIX,reuters.com,🌏 全球
+DOMAIN-SUFFIX,reutersmedia.net,🌏 全球
+DOMAIN-SUFFIX,rfi.fr,🌏 全球
+DOMAIN-SUFFIX,rixcloud.com,🌏 全球
+DOMAIN-SUFFIX,roadshow.hk,🌏 全球
+DOMAIN-SUFFIX,scmp.com,🌏 全球
+DOMAIN-SUFFIX,scribd.com,🌏 全球
+DOMAIN-SUFFIX,seatguru.com,🌏 全球
+DOMAIN-SUFFIX,shadowsocks.org,🌏 全球
+DOMAIN-SUFFIX,shopee.tw,🌏 全球
+DOMAIN-SUFFIX,slideshare.net,🌏 全球
+DOMAIN-SUFFIX,softfamous.com,🌏 全球
+DOMAIN-SUFFIX,ssrcloud.org,🌏 全球
+DOMAIN-SUFFIX,startpage.com,🌏 全球
+DOMAIN-SUFFIX,steamcommunity.com,🌏 全球
+DOMAIN-SUFFIX,steemit.com,🌏 全球
+DOMAIN-SUFFIX,steemitwallet.com,🌏 全球
+DOMAIN-SUFFIX,t66y.com,🌏 全球
+DOMAIN-SUFFIX,tapatalk.com,🌏 全球
+DOMAIN-SUFFIX,teco-hk.org,🌏 全球
+DOMAIN-SUFFIX,teco-mo.org,🌏 全球
+DOMAIN-SUFFIX,teddysun.com,🌏 全球
+DOMAIN-SUFFIX,textnow.me,🌏 全球
+DOMAIN-SUFFIX,theguardian.com,🌏 全球
+DOMAIN-SUFFIX,theinitium.com,🌏 全球
+DOMAIN-SUFFIX,thetvdb.com,🌏 全球
+DOMAIN-SUFFIX,tineye.com,🌏 全球
+DOMAIN-SUFFIX,torproject.org,🌏 全球
+DOMAIN-SUFFIX,tumblr.com,🌏 全球
+DOMAIN-SUFFIX,turbobit.net,🌏 全球
+DOMAIN-SUFFIX,tutanota.com,🌏 全球
+DOMAIN-SUFFIX,tvboxnow.com,🌏 全球
+DOMAIN-SUFFIX,udn.com,🌏 全球
+DOMAIN-SUFFIX,unseen.is,🌏 全球
+DOMAIN-SUFFIX,upmedia.mg,🌏 全球
+DOMAIN-SUFFIX,uptodown.com,🌏 全球
+DOMAIN-SUFFIX,urbandictionary.com,🌏 全球
+DOMAIN-SUFFIX,ustream.tv,🌏 全球
+DOMAIN-SUFFIX,uwants.com,🌏 全球
+DOMAIN-SUFFIX,v2ray.com,🌏 全球
+DOMAIN-SUFFIX,viber.com,🌏 全球
+DOMAIN-SUFFIX,videopress.com,🌏 全球
+DOMAIN-SUFFIX,vimeo.com,🌏 全球
+DOMAIN-SUFFIX,voachinese.com,🌏 全球
+DOMAIN-SUFFIX,voanews.com,🌏 全球
+DOMAIN-SUFFIX,voxer.com,🌏 全球
+DOMAIN-SUFFIX,vzw.com,🌏 全球
+DOMAIN-SUFFIX,w3schools.com,🌏 全球
+DOMAIN-SUFFIX,washingtonpost.com,🌏 全球
+DOMAIN-SUFFIX,wattpad.com,🌏 全球
+DOMAIN-SUFFIX,whoer.net,🌏 全球
+DOMAIN-SUFFIX,wikimapia.org,🌏 全球
+DOMAIN-SUFFIX,wikimedia.org,🌏 全球
+DOMAIN-SUFFIX,wikipedia.org,🌏 全球
+DOMAIN-SUFFIX,wikiquote.org,🌏 全球
+DOMAIN-SUFFIX,wikiwand.com,🌏 全球
+DOMAIN-SUFFIX,winudf.com,🌏 全球
+DOMAIN-SUFFIX,wire.com,🌏 全球
+DOMAIN-SUFFIX,wordpress.com,🌏 全球
+DOMAIN-SUFFIX,workflow.is,🌏 全球
+DOMAIN-SUFFIX,worldcat.org,🌏 全球
+DOMAIN-SUFFIX,wsj.com,🌏 全球
+DOMAIN-SUFFIX,wsj.net,🌏 全球
+DOMAIN-SUFFIX,xhamster.com,🌏 全球
+DOMAIN-SUFFIX,xn--90wwvt03e.com,🌏 全球
+DOMAIN-SUFFIX,xn--i2ru8q2qg.com,🌏 全球
+DOMAIN-SUFFIX,xnxx.com,🌏 全球
+DOMAIN-SUFFIX,xvideos.com,🌏 全球
+DOMAIN-SUFFIX,yahoo.com,🌏 全球
+DOMAIN-SUFFIX,yandex.ru,🌏 全球
+DOMAIN-SUFFIX,ycombinator.com,🌏 全球
+DOMAIN-SUFFIX,yesasia.com,🌏 全球
+DOMAIN-SUFFIX,yes-news.com,🌏 全球
+DOMAIN-SUFFIX,yomiuri.co.jp,🌏 全球
+DOMAIN-SUFFIX,you-get.org,🌏 全球
+DOMAIN-SUFFIX,zaobao.com,🌏 全球
+DOMAIN-SUFFIX,zb.com,🌏 全球
+DOMAIN-SUFFIX,zello.com,🌏 全球
+DOMAIN-SUFFIX,zeronet.io,🌏 全球
+DOMAIN-SUFFIX,zoom.us,🌏 全球
+DOMAIN-KEYWORD,github,🌏 全球
+DOMAIN-KEYWORD,jav,🌏 全球
+DOMAIN-KEYWORD,pinterest,🌏 全球
+DOMAIN-KEYWORD,porn,🌏 全球
+DOMAIN-KEYWORD,wikileaks,🌏 全球
 
 # (Region-Restricted Access Denied)
-DOMAIN-SUFFIX,apartmentratings.com,Maying
-DOMAIN-SUFFIX,apartments.com,Maying
-DOMAIN-SUFFIX,bankmobilevibe.com,Maying
-DOMAIN-SUFFIX,bing.com,Maying
-DOMAIN-SUFFIX,booktopia.com.au,Maying
-DOMAIN-SUFFIX,cccat.io,Maying
-DOMAIN-SUFFIX,centauro.com.br,Maying
-DOMAIN-SUFFIX,clearsurance.com,Maying
-DOMAIN-SUFFIX,costco.com,Maying
-DOMAIN-SUFFIX,crackle.com,Maying
-DOMAIN-SUFFIX,depositphotos.cn,Maying
-DOMAIN-SUFFIX,dish.com,Maying
-DOMAIN-SUFFIX,dmm.co.jp,Maying
-DOMAIN-SUFFIX,dmm.com,Maying
-DOMAIN-SUFFIX,dnvod.tv,Maying
-DOMAIN-SUFFIX,esurance.com,Maying
-DOMAIN-SUFFIX,extmatrix.com,Maying
-DOMAIN-SUFFIX,fastpic.ru,Maying
-DOMAIN-SUFFIX,flipboard.com,Maying
-DOMAIN-SUFFIX,fnac.be,Maying
-DOMAIN-SUFFIX,fnac.com,Maying
-DOMAIN-SUFFIX,funkyimg.com,Maying
-DOMAIN-SUFFIX,fxnetworks.com,Maying
-DOMAIN-SUFFIX,gettyimages.com,Maying
-DOMAIN-SUFFIX,go.com,Maying
-DOMAIN-SUFFIX,here.com,Maying
-DOMAIN-SUFFIX,jcpenney.com,Maying
-DOMAIN-SUFFIX,jiehua.tv,Maying
-DOMAIN-SUFFIX,mailfence.com,Maying
-DOMAIN-SUFFIX,nationwide.com,Maying
-DOMAIN-SUFFIX,nbc.com,Maying
-DOMAIN-SUFFIX,nexon.com,Maying
-DOMAIN-SUFFIX,nordstrom.com,Maying
-DOMAIN-SUFFIX,nordstromimage.com,Maying
-DOMAIN-SUFFIX,nordstromrack.com,Maying
-DOMAIN-SUFFIX,superpages.com,Maying
-DOMAIN-SUFFIX,target.com,Maying
-DOMAIN-SUFFIX,thinkgeek.com,Maying
-DOMAIN-SUFFIX,tracfone.com,Maying
-DOMAIN-SUFFIX,unity3d.com,Maying
-DOMAIN-SUFFIX,uploader.jp,Maying
-DOMAIN-SUFFIX,vevo.com,Maying
-DOMAIN-SUFFIX,viu.tv,Maying
-DOMAIN-SUFFIX,vk.com,Maying
-DOMAIN-SUFFIX,vsco.co,Maying
-DOMAIN-SUFFIX,xfinity.com,Maying
-DOMAIN-SUFFIX,zattoo.com,Maying
-USER-AGENT,Roam*,Maying
+DOMAIN-SUFFIX,apartmentratings.com,🌏 全球
+DOMAIN-SUFFIX,apartments.com,🌏 全球
+DOMAIN-SUFFIX,bankmobilevibe.com,🌏 全球
+DOMAIN-SUFFIX,bing.com,🌏 全球
+DOMAIN-SUFFIX,booktopia.com.au,🌏 全球
+DOMAIN-SUFFIX,cccat.io,🌏 全球
+DOMAIN-SUFFIX,centauro.com.br,🌏 全球
+DOMAIN-SUFFIX,clearsurance.com,🌏 全球
+DOMAIN-SUFFIX,costco.com,🌏 全球
+DOMAIN-SUFFIX,crackle.com,🌏 全球
+DOMAIN-SUFFIX,depositphotos.cn,🌏 全球
+DOMAIN-SUFFIX,dish.com,🌏 全球
+DOMAIN-SUFFIX,dmm.co.jp,🌏 全球
+DOMAIN-SUFFIX,dmm.com,🌏 全球
+DOMAIN-SUFFIX,dnvod.tv,🌏 全球
+DOMAIN-SUFFIX,esurance.com,🌏 全球
+DOMAIN-SUFFIX,extmatrix.com,🌏 全球
+DOMAIN-SUFFIX,fastpic.ru,🌏 全球
+DOMAIN-SUFFIX,flipboard.com,🌏 全球
+DOMAIN-SUFFIX,fnac.be,🌏 全球
+DOMAIN-SUFFIX,fnac.com,🌏 全球
+DOMAIN-SUFFIX,funkyimg.com,🌏 全球
+DOMAIN-SUFFIX,fxnetworks.com,🌏 全球
+DOMAIN-SUFFIX,gettyimages.com,🌏 全球
+DOMAIN-SUFFIX,go.com,🌏 全球
+DOMAIN-SUFFIX,here.com,🌏 全球
+DOMAIN-SUFFIX,jcpenney.com,🌏 全球
+DOMAIN-SUFFIX,jiehua.tv,🌏 全球
+DOMAIN-SUFFIX,mailfence.com,🌏 全球
+DOMAIN-SUFFIX,nationwide.com,🌏 全球
+DOMAIN-SUFFIX,nbc.com,🌏 全球
+DOMAIN-SUFFIX,nexon.com,🌏 全球
+DOMAIN-SUFFIX,nordstrom.com,🌏 全球
+DOMAIN-SUFFIX,nordstromimage.com,🌏 全球
+DOMAIN-SUFFIX,nordstromrack.com,🌏 全球
+DOMAIN-SUFFIX,superpages.com,🌏 全球
+DOMAIN-SUFFIX,target.com,🌏 全球
+DOMAIN-SUFFIX,thinkgeek.com,🌏 全球
+DOMAIN-SUFFIX,tracfone.com,🌏 全球
+DOMAIN-SUFFIX,unity3d.com,🌏 全球
+DOMAIN-SUFFIX,uploader.jp,🌏 全球
+DOMAIN-SUFFIX,vevo.com,🌏 全球
+DOMAIN-SUFFIX,viu.tv,🌏 全球
+DOMAIN-SUFFIX,vk.com,🌏 全球
+DOMAIN-SUFFIX,vsco.co,🌏 全球
+DOMAIN-SUFFIX,xfinity.com,🌏 全球
+DOMAIN-SUFFIX,zattoo.com,🌏 全球
+USER-AGENT,Roam*,🌏 全球
 
 # (The Most Popular Sites)
 # > Apple
 # >> TestFlight
-DOMAIN,testflight.apple.com,Maying
+DOMAIN,testflight.apple.com,🌏 全球
 # >> Apple URL Shortener
-DOMAIN-SUFFIX,appsto.re,Maying
+DOMAIN-SUFFIX,appsto.re,🌏 全球
 # >> iBooks Store download
-DOMAIN,books.itunes.apple.com,Maying
+DOMAIN,books.itunes.apple.com,🌏 全球
 # >> iTunes Store Moveis Trailers
-DOMAIN,hls.itunes.apple.com,Maying
+DOMAIN,hls.itunes.apple.com,🌏 全球
 # >> Spotlight
-DOMAIN,api-glb-sea.smoot.apple.com,Maying
+DOMAIN,api-glb-sea.smoot.apple.com,🌏 全球
 # >> Dictionary
-DOMAIN,lookup-api.apple.com,Maying
+DOMAIN,lookup-api.apple.com,🌏 全球
 # > Google
-DOMAIN-SUFFIX,abc.xyz,Maying
-DOMAIN-SUFFIX,android.com,Maying
-DOMAIN-SUFFIX,androidify.com,Maying
-DOMAIN-SUFFIX,dialogflow.com,Maying
-DOMAIN-SUFFIX,autodraw.com,Maying
-DOMAIN-SUFFIX,capitalg.com,Maying
-DOMAIN-SUFFIX,certificate-transparency.org,Maying
-DOMAIN-SUFFIX,chrome.com,Maying
-DOMAIN-SUFFIX,chromeexperiments.com,Maying
-DOMAIN-SUFFIX,chromestatus.com,Maying
-DOMAIN-SUFFIX,chromium.org,Maying
-DOMAIN-SUFFIX,creativelab5.com,Maying
-DOMAIN-SUFFIX,debug.com,Maying
-DOMAIN-SUFFIX,deepmind.com,Maying
-DOMAIN-SUFFIX,firebaseio.com,Maying
-DOMAIN-SUFFIX,getmdl.io,Maying
-DOMAIN-SUFFIX,ggpht.com,Maying
-DOMAIN-SUFFIX,gmail.com,Maying
-DOMAIN-SUFFIX,gmodules.com,Maying
-DOMAIN-SUFFIX,godoc.org,Maying
-DOMAIN-SUFFIX,golang.org,Maying
-DOMAIN-SUFFIX,gstatic.com,Maying
-DOMAIN-SUFFIX,gv.com,Maying
-DOMAIN-SUFFIX,gwtproject.org,Maying
-DOMAIN-SUFFIX,itasoftware.com,Maying
-DOMAIN-SUFFIX,madewithcode.com,Maying
-DOMAIN-SUFFIX,material.io,Maying
-DOMAIN-SUFFIX,polymer-project.org,Maying
-DOMAIN-SUFFIX,admin.recaptcha.net,Maying
-DOMAIN-SUFFIX,recaptcha.net,Maying
-DOMAIN-SUFFIX,shattered.io,Maying
-DOMAIN-SUFFIX,synergyse.com,Maying
-DOMAIN-SUFFIX,telephony.goog,Maying
-DOMAIN-SUFFIX,tensorflow.org,Maying
-DOMAIN-SUFFIX,tfhub.dev,Maying
-DOMAIN-SUFFIX,tiltbrush.com,Maying
-DOMAIN-SUFFIX,waveprotocol.org,Maying
-DOMAIN-SUFFIX,waymo.com,Maying
-DOMAIN-SUFFIX,webmproject.org,Maying
-DOMAIN-SUFFIX,webrtc.org,Maying
-DOMAIN-SUFFIX,whatbrowser.org,Maying
-DOMAIN-SUFFIX,widevine.com,Maying
-DOMAIN-SUFFIX,x.company,Maying
-DOMAIN-SUFFIX,youtu.be,Maying
-DOMAIN-SUFFIX,yt.be,Maying
-DOMAIN-SUFFIX,ytimg.com,Maying
+DOMAIN-SUFFIX,abc.xyz,🌏 全球
+DOMAIN-SUFFIX,android.com,🌏 全球
+DOMAIN-SUFFIX,androidify.com,🌏 全球
+DOMAIN-SUFFIX,dialogflow.com,🌏 全球
+DOMAIN-SUFFIX,autodraw.com,🌏 全球
+DOMAIN-SUFFIX,capitalg.com,🌏 全球
+DOMAIN-SUFFIX,certificate-transparency.org,🌏 全球
+DOMAIN-SUFFIX,chrome.com,🌏 全球
+DOMAIN-SUFFIX,chromeexperiments.com,🌏 全球
+DOMAIN-SUFFIX,chromestatus.com,🌏 全球
+DOMAIN-SUFFIX,chromium.org,🌏 全球
+DOMAIN-SUFFIX,creativelab5.com,🌏 全球
+DOMAIN-SUFFIX,debug.com,🌏 全球
+DOMAIN-SUFFIX,deepmind.com,🌏 全球
+DOMAIN-SUFFIX,firebaseio.com,🌏 全球
+DOMAIN-SUFFIX,getmdl.io,🌏 全球
+DOMAIN-SUFFIX,ggpht.com,🌏 全球
+DOMAIN-SUFFIX,gmail.com,🌏 全球
+DOMAIN-SUFFIX,gmodules.com,🌏 全球
+DOMAIN-SUFFIX,godoc.org,🌏 全球
+DOMAIN-SUFFIX,golang.org,🌏 全球
+DOMAIN-SUFFIX,gstatic.com,🌏 全球
+DOMAIN-SUFFIX,gv.com,🌏 全球
+DOMAIN-SUFFIX,gwtproject.org,🌏 全球
+DOMAIN-SUFFIX,itasoftware.com,🌏 全球
+DOMAIN-SUFFIX,madewithcode.com,🌏 全球
+DOMAIN-SUFFIX,material.io,🌏 全球
+DOMAIN-SUFFIX,polymer-project.org,🌏 全球
+DOMAIN-SUFFIX,admin.recaptcha.net,🌏 全球
+DOMAIN-SUFFIX,recaptcha.net,🌏 全球
+DOMAIN-SUFFIX,shattered.io,🌏 全球
+DOMAIN-SUFFIX,synergyse.com,🌏 全球
+DOMAIN-SUFFIX,telephony.goog,🌏 全球
+DOMAIN-SUFFIX,tensorflow.org,🌏 全球
+DOMAIN-SUFFIX,tfhub.dev,🌏 全球
+DOMAIN-SUFFIX,tiltbrush.com,🌏 全球
+DOMAIN-SUFFIX,waveprotocol.org,🌏 全球
+DOMAIN-SUFFIX,waymo.com,🌏 全球
+DOMAIN-SUFFIX,webmproject.org,🌏 全球
+DOMAIN-SUFFIX,webrtc.org,🌏 全球
+DOMAIN-SUFFIX,whatbrowser.org,🌏 全球
+DOMAIN-SUFFIX,widevine.com,🌏 全球
+DOMAIN-SUFFIX,x.company,🌏 全球
+DOMAIN-SUFFIX,youtu.be,🌏 全球
+DOMAIN-SUFFIX,yt.be,🌏 全球
+DOMAIN-SUFFIX,ytimg.com,🌏 全球
 # > Microsoft
 # >> Microsoft OneDrive
-DOMAIN-SUFFIX,1drv.com,Maying
-DOMAIN-SUFFIX,1drv.ms,Maying
-DOMAIN-SUFFIX,blob.core.windows.net,Maying
-DOMAIN-SUFFIX,livefilestore.com,Maying
-DOMAIN-SUFFIX,onedrive.com,Maying
-DOMAIN-SUFFIX,storage.live.com,Maying
-DOMAIN-SUFFIX,storage.msn.com,Maying
-DOMAIN,oneclient.sfx.ms,Maying
+DOMAIN-SUFFIX,1drv.com,🌏 全球
+DOMAIN-SUFFIX,1drv.ms,🌏 全球
+DOMAIN-SUFFIX,blob.core.windows.net,🌏 全球
+DOMAIN-SUFFIX,livefilestore.com,🌏 全球
+DOMAIN-SUFFIX,onedrive.com,🌏 全球
+DOMAIN-SUFFIX,storage.live.com,🌏 全球
+DOMAIN-SUFFIX,storage.msn.com,🌏 全球
+DOMAIN,oneclient.sfx.ms,🌏 全球
 # > Other
-DOMAIN-SUFFIX,0rz.tw,Maying
-DOMAIN-SUFFIX,4bluestones.biz,Maying
-DOMAIN-SUFFIX,9bis.net,Maying
-DOMAIN-SUFFIX,allconnected.co,Maying
-DOMAIN-SUFFIX,aol.com,Maying
-DOMAIN-SUFFIX,bcc.com.tw,Maying
-DOMAIN-SUFFIX,bit.ly,Maying
-DOMAIN-SUFFIX,bitshare.com,Maying
-DOMAIN-SUFFIX,blog.jp,Maying
-DOMAIN-SUFFIX,blogimg.jp,Maying
-DOMAIN-SUFFIX,blogtd.org,Maying
-DOMAIN-SUFFIX,broadcast.co.nz,Maying
-DOMAIN-SUFFIX,camfrog.com,Maying
-DOMAIN-SUFFIX,cfos.de,Maying
-DOMAIN-SUFFIX,citypopulation.de,Maying
-DOMAIN-SUFFIX,cloudfront.net,Maying
-DOMAIN-SUFFIX,ctitv.com.tw,Maying
-DOMAIN-SUFFIX,cuhk.edu.hk,Maying
-DOMAIN-SUFFIX,cusu.hk,Maying
-DOMAIN-SUFFIX,discord.gg,Maying
-DOMAIN-SUFFIX,discuss.com.hk,Maying
-DOMAIN-SUFFIX,dropboxapi.com,Maying
-DOMAIN-SUFFIX,duolingo.cn,Maying
-DOMAIN-SUFFIX,edditstatic.com,Maying
-DOMAIN-SUFFIX,flickriver.com,Maying
-DOMAIN-SUFFIX,focustaiwan.tw,Maying
-DOMAIN-SUFFIX,free.fr,Maying
-DOMAIN-SUFFIX,gigacircle.com,Maying
-DOMAIN-SUFFIX,hk-pub.com,Maying
-DOMAIN-SUFFIX,hosting.co.uk,Maying
-DOMAIN-SUFFIX,hwcdn.net,Maying
-DOMAIN-SUFFIX,ifixit.com,Maying
-DOMAIN-SUFFIX,iphone4hongkong.com,Maying
-DOMAIN-SUFFIX,iphonetaiwan.org,Maying
-DOMAIN-SUFFIX,iptvbin.com,Maying
-DOMAIN-SUFFIX,linksalpha.com,Maying
-DOMAIN-SUFFIX,manyvids.com,Maying
-DOMAIN-SUFFIX,myactimes.com,Maying
-DOMAIN-SUFFIX,newsblur.com,Maying
-DOMAIN-SUFFIX,now.im,Maying
-DOMAIN-SUFFIX,nowe.com,Maying
-DOMAIN-SUFFIX,redditlist.com,Maying
-DOMAIN-SUFFIX,s3.amazonaws.com,Maying
-DOMAIN-SUFFIX,signal.org,Maying
-DOMAIN-SUFFIX,smartmailcloud.com,Maying
-DOMAIN-SUFFIX,sparknotes.com,Maying
-DOMAIN-SUFFIX,streetvoice.com,Maying
-DOMAIN-SUFFIX,supertop.co,Maying
-DOMAIN-SUFFIX,tv.com,Maying
-DOMAIN-SUFFIX,typepad.com,Maying
-DOMAIN-SUFFIX,udnbkk.com,Maying
-DOMAIN-SUFFIX,urbanairship.com,Maying
-DOMAIN-SUFFIX,whispersystems.org,Maying
-DOMAIN-SUFFIX,wikia.com,Maying
-DOMAIN-SUFFIX,wn.com,Maying
-DOMAIN-SUFFIX,wolframalpha.com,Maying
-DOMAIN-SUFFIX,x-art.com,Maying
-DOMAIN-SUFFIX,yimg.com,Maying
-DOMAIN,api.steampowered.com,Maying
-DOMAIN,store.steampowered.com,Maying
+DOMAIN-SUFFIX,0rz.tw,🌏 全球
+DOMAIN-SUFFIX,4bluestones.biz,🌏 全球
+DOMAIN-SUFFIX,9bis.net,🌏 全球
+DOMAIN-SUFFIX,allconnected.co,🌏 全球
+DOMAIN-SUFFIX,aol.com,🌏 全球
+DOMAIN-SUFFIX,bcc.com.tw,🌏 全球
+DOMAIN-SUFFIX,bit.ly,🌏 全球
+DOMAIN-SUFFIX,bitshare.com,🌏 全球
+DOMAIN-SUFFIX,blog.jp,🌏 全球
+DOMAIN-SUFFIX,blogimg.jp,🌏 全球
+DOMAIN-SUFFIX,blogtd.org,🌏 全球
+DOMAIN-SUFFIX,broadcast.co.nz,🌏 全球
+DOMAIN-SUFFIX,camfrog.com,🌏 全球
+DOMAIN-SUFFIX,cfos.de,🌏 全球
+DOMAIN-SUFFIX,citypopulation.de,🌏 全球
+DOMAIN-SUFFIX,cloudfront.net,🌏 全球
+DOMAIN-SUFFIX,ctitv.com.tw,🌏 全球
+DOMAIN-SUFFIX,cuhk.edu.hk,🌏 全球
+DOMAIN-SUFFIX,cusu.hk,🌏 全球
+DOMAIN-SUFFIX,discord.gg,🌏 全球
+DOMAIN-SUFFIX,discuss.com.hk,🌏 全球
+DOMAIN-SUFFIX,dropboxapi.com,🌏 全球
+DOMAIN-SUFFIX,duolingo.cn,🌏 全球
+DOMAIN-SUFFIX,edditstatic.com,🌏 全球
+DOMAIN-SUFFIX,flickriver.com,🌏 全球
+DOMAIN-SUFFIX,focustaiwan.tw,🌏 全球
+DOMAIN-SUFFIX,free.fr,🌏 全球
+DOMAIN-SUFFIX,gigacircle.com,🌏 全球
+DOMAIN-SUFFIX,hk-pub.com,🌏 全球
+DOMAIN-SUFFIX,hosting.co.uk,🌏 全球
+DOMAIN-SUFFIX,hwcdn.net,🌏 全球
+DOMAIN-SUFFIX,ifixit.com,🌏 全球
+DOMAIN-SUFFIX,iphone4hongkong.com,🌏 全球
+DOMAIN-SUFFIX,iphonetaiwan.org,🌏 全球
+DOMAIN-SUFFIX,iptvbin.com,🌏 全球
+DOMAIN-SUFFIX,linksalpha.com,🌏 全球
+DOMAIN-SUFFIX,manyvids.com,🌏 全球
+DOMAIN-SUFFIX,myactimes.com,🌏 全球
+DOMAIN-SUFFIX,newsblur.com,🌏 全球
+DOMAIN-SUFFIX,now.im,🌏 全球
+DOMAIN-SUFFIX,nowe.com,🌏 全球
+DOMAIN-SUFFIX,redditlist.com,🌏 全球
+DOMAIN-SUFFIX,s3.amazonaws.com,🌏 全球
+DOMAIN-SUFFIX,signal.org,🌏 全球
+DOMAIN-SUFFIX,smartmailcloud.com,🌏 全球
+DOMAIN-SUFFIX,sparknotes.com,🌏 全球
+DOMAIN-SUFFIX,streetvoice.com,🌏 全球
+DOMAIN-SUFFIX,supertop.co,🌏 全球
+DOMAIN-SUFFIX,tv.com,🌏 全球
+DOMAIN-SUFFIX,typepad.com,🌏 全球
+DOMAIN-SUFFIX,udnbkk.com,🌏 全球
+DOMAIN-SUFFIX,urbanairship.com,🌏 全球
+DOMAIN-SUFFIX,whispersystems.org,🌏 全球
+DOMAIN-SUFFIX,wikia.com,🌏 全球
+DOMAIN-SUFFIX,wn.com,🌏 全球
+DOMAIN-SUFFIX,wolframalpha.com,🌏 全球
+DOMAIN-SUFFIX,x-art.com,🌏 全球
+DOMAIN-SUFFIX,yimg.com,🌏 全球
+DOMAIN,api.steampowered.com,🌏 全球
+DOMAIN,store.steampowered.com,🌏 全球
 
 
 # (GlobalMedia)
 # (Music)
 # > Deezer
-USER-AGENT,Deezer*,Maying
-DOMAIN-SUFFIX,deezer.com,Maying
-DOMAIN-SUFFIX,dzcdn.net,Maying
+USER-AGENT,Deezer*,🌏 全球
+DOMAIN-SUFFIX,deezer.com,🌏 全球
+DOMAIN-SUFFIX,dzcdn.net,🌏 全球
 # > KKBOX
-DOMAIN-SUFFIX,kkbox.com,Maying
-DOMAIN-SUFFIX,kkbox.com.tw,Maying
-DOMAIN-SUFFIX,kfs.io,Maying
+DOMAIN-SUFFIX,kkbox.com,🌏 全球
+DOMAIN-SUFFIX,kkbox.com.tw,🌏 全球
+DOMAIN-SUFFIX,kfs.io,🌏 全球
 # > JOOX
-USER-AGENT,WeMusic*,Maying
-USER-AGENT,JOOX*,Maying
-DOMAIN-SUFFIX,joox.com,Maying
+USER-AGENT,WeMusic*,🌏 全球
+USER-AGENT,JOOX*,🌏 全球
+DOMAIN-SUFFIX,joox.com,🌏 全球
 # > Pandora
-USER-AGENT,Pandora*,Maying
-DOMAIN-SUFFIX,pandora.com,Maying
+USER-AGENT,Pandora*,🌏 全球
+DOMAIN-SUFFIX,pandora.com,🌏 全球
 # > SoundCloud
-USER-AGENT,SoundCloud*,Maying
-DOMAIN-SUFFIX,p-cdn.us,Maying
-DOMAIN-SUFFIX,sndcdn.com,Maying
-DOMAIN-SUFFIX,soundcloud.com,Maying
+USER-AGENT,SoundCloud*,🌏 全球
+DOMAIN-SUFFIX,p-cdn.us,🌏 全球
+DOMAIN-SUFFIX,sndcdn.com,🌏 全球
+DOMAIN-SUFFIX,soundcloud.com,🌏 全球
 # > Spotify
-USER-AGENT,Spotify*,Maying
-DOMAIN-SUFFIX,pscdn.co,Maying
-DOMAIN-SUFFIX,scdn.co,Maying
-DOMAIN-SUFFIX,spotify.com,Maying
-DOMAIN-SUFFIX,spoti.fi,Maying
-DOMAIN-KEYWORD,spotify.com,Maying
-DOMAIN-KEYWORD,-spotify-com,Maying
+USER-AGENT,Spotify*,🌏 全球
+DOMAIN-SUFFIX,pscdn.co,🌏 全球
+DOMAIN-SUFFIX,scdn.co,🌏 全球
+DOMAIN-SUFFIX,spotify.com,🌏 全球
+DOMAIN-SUFFIX,spoti.fi,🌏 全球
+DOMAIN-KEYWORD,spotify.com,🌏 全球
+DOMAIN-KEYWORD,-spotify-com,🌏 全球
 # > TIDAL
-USER-AGENT,TIDAL*,Maying
-DOMAIN-SUFFIX,tidal.com,Maying
+USER-AGENT,TIDAL*,🌏 全球
+DOMAIN-SUFFIX,tidal.com,🌏 全球
 # > YouTubeMusic
-USER-AGENT,com.google.ios.youtubemusic*,Maying
-USER-AGENT,YouTubeMusic*,Maying
+USER-AGENT,com.google.ios.youtubemusic*,🌏 全球
+USER-AGENT,YouTubeMusic*,🌏 全球
 # (Video)
 # > All4
-USER-AGENT,All4*,Maying
-DOMAIN-SUFFIX,c4assets.com,Maying
-DOMAIN-SUFFIX,channel4.com,Maying
+USER-AGENT,All4*,🌏 全球
+DOMAIN-SUFFIX,c4assets.com,🌏 全球
+DOMAIN-SUFFIX,channel4.com,🌏 全球
 # > AbemaTV
-USER-AGENT,AbemaTV*,Maying
-DOMAIN-SUFFIX,abema.io,Maying
-DOMAIN-SUFFIX,ameba.jp,Maying
-DOMAIN-SUFFIX,abema.tv,Maying
-DOMAIN-SUFFIX,hayabusa.io,Maying
-DOMAIN,abematv.akamaized.net,Maying
-DOMAIN,ds-linear-abematv.akamaized.net,Maying
-DOMAIN,ds-vod-abematv.akamaized.net,Maying
-DOMAIN,linear-abematv.akamaized.net,Maying
+USER-AGENT,AbemaTV*,🌏 全球
+DOMAIN-SUFFIX,abema.io,🌏 全球
+DOMAIN-SUFFIX,ameba.jp,🌏 全球
+DOMAIN-SUFFIX,abema.tv,🌏 全球
+DOMAIN-SUFFIX,hayabusa.io,🌏 全球
+DOMAIN,abematv.akamaized.net,🌏 全球
+DOMAIN,ds-linear-abematv.akamaized.net,🌏 全球
+DOMAIN,ds-vod-abematv.akamaized.net,🌏 全球
+DOMAIN,linear-abematv.akamaized.net,🌏 全球
 # > Amazon Prime Video
-USER-AGENT,InstantVideo.US*,Maying
-USER-AGENT,Prime%20Video*,Maying
-DOMAIN-SUFFIX,aiv-cdn.net,Maying
-DOMAIN-SUFFIX,aiv-delivery.net,Maying
-DOMAIN-SUFFIX,amazonvideo.com,Maying
-DOMAIN-SUFFIX,primevideo.com,Maying
-DOMAIN,avodmp4s3ww-a.akamaihd.net,Maying
-DOMAIN,d25xi40x97liuc.cloudfront.net,Maying
-DOMAIN,dmqdd6hw24ucf.cloudfront.net,Maying
-DOMAIN,d22qjgkvxw22r6.cloudfront.net,Maying
-DOMAIN,d1v5ir2lpwr8os.cloudfront.net,Maying
-DOMAIN-KEYWORD,avoddashs,Maying
+USER-AGENT,InstantVideo.US*,🌏 全球
+USER-AGENT,Prime%20Video*,🌏 全球
+DOMAIN-SUFFIX,aiv-cdn.net,🌏 全球
+DOMAIN-SUFFIX,aiv-delivery.net,🌏 全球
+DOMAIN-SUFFIX,amazonvideo.com,🌏 全球
+DOMAIN-SUFFIX,primevideo.com,🌏 全球
+DOMAIN,avodmp4s3ww-a.akamaihd.net,🌏 全球
+DOMAIN,d25xi40x97liuc.cloudfront.net,🌏 全球
+DOMAIN,dmqdd6hw24ucf.cloudfront.net,🌏 全球
+DOMAIN,d22qjgkvxw22r6.cloudfront.net,🌏 全球
+DOMAIN,d1v5ir2lpwr8os.cloudfront.net,🌏 全球
+DOMAIN-KEYWORD,avoddashs,🌏 全球
 # > Bahamut
-USER-AGENT,Anime*,Maying
-DOMAIN-SUFFIX,bahamut.com.tw,Maying
-DOMAIN-SUFFIX,gamer.com.tw,Maying
-DOMAIN,gamer-cds.cdn.hinet.net,Maying
-DOMAIN,gamer2-cds.cdn.hinet.net,Maying
+USER-AGENT,Anime*,🌏 全球
+DOMAIN-SUFFIX,bahamut.com.tw,🌏 全球
+DOMAIN-SUFFIX,gamer.com.tw,🌏 全球
+DOMAIN,gamer-cds.cdn.hinet.net,🌏 全球
+DOMAIN,gamer2-cds.cdn.hinet.net,🌏 全球
 # > BBC iPlayer
-USER-AGENT,BBCiPlayer*,Maying
-DOMAIN-SUFFIX,bbc.co.uk,Maying
-DOMAIN-SUFFIX,bbci.co.uk,Maying
-DOMAIN-KEYWORD,bbcfmt,Maying
-DOMAIN-KEYWORD,uk-live,Maying
+USER-AGENT,BBCiPlayer*,🌏 全球
+DOMAIN-SUFFIX,bbc.co.uk,🌏 全球
+DOMAIN-SUFFIX,bbci.co.uk,🌏 全球
+DOMAIN-KEYWORD,bbcfmt,🌏 全球
+DOMAIN-KEYWORD,uk-live,🌏 全球
 # > DAZN
-USER-AGENT,DAZN*,Maying
-DOMAIN-SUFFIX,dazn.com,Maying
-DOMAIN-SUFFIX,dazn-api.com,Maying
-DOMAIN,d151l6v8er5bdm.cloudfront.net,Maying
-DOMAIN-KEYWORD,voddazn,Maying
+USER-AGENT,DAZN*,🌏 全球
+DOMAIN-SUFFIX,dazn.com,🌏 全球
+DOMAIN-SUFFIX,dazn-api.com,🌏 全球
+DOMAIN,d151l6v8er5bdm.cloudfront.net,🌏 全球
+DOMAIN-KEYWORD,voddazn,🌏 全球
 # > Disney+
-USER-AGENT,Disney+*,Maying
-DOMAIN-SUFFIX,bamgrid.com,Maying
-DOMAIN-SUFFIX,disney-plus.net,Maying
-DOMAIN-SUFFIX,disneyplus.com,Maying
-DOMAIN-SUFFIX,dssott.com,Maying
-DOMAIN,cdn.registerdisney.go.com,Maying
+USER-AGENT,Disney+*,🌏 全球
+DOMAIN-SUFFIX,bamgrid.com,🌏 全球
+DOMAIN-SUFFIX,disney-plus.net,🌏 全球
+DOMAIN-SUFFIX,disneyplus.com,🌏 全球
+DOMAIN-SUFFIX,dssott.com,🌏 全球
+DOMAIN,cdn.registerdisney.go.com,🌏 全球
 # > encoreTVB
-USER-AGENT,encoreTVB*,Maying
-DOMAIN-SUFFIX,encoretvb.com,Maying
-DOMAIN,edge.api.brightcove.com,Maying
-DOMAIN,bcbolt446c5271-a.akamaihd.net,Maying
+USER-AGENT,encoreTVB*,🌏 全球
+DOMAIN-SUFFIX,encoretvb.com,🌏 全球
+DOMAIN,edge.api.brightcove.com,🌏 全球
+DOMAIN,bcbolt446c5271-a.akamaihd.net,🌏 全球
 # > FOX NOW
-USER-AGENT,FOX%20NOW*,Maying
-DOMAIN-SUFFIX,fox.com,Maying
-DOMAIN-SUFFIX,foxdcg.com,Maying
-DOMAIN-SUFFIX,theplatform.com,Maying
-DOMAIN-SUFFIX,uplynk.com,Maying
+USER-AGENT,FOX%20NOW*,🌏 全球
+DOMAIN-SUFFIX,fox.com,🌏 全球
+DOMAIN-SUFFIX,foxdcg.com,🌏 全球
+DOMAIN-SUFFIX,theplatform.com,🌏 全球
+DOMAIN-SUFFIX,uplynk.com,🌏 全球
 # > HBO NOW
-USER-AGENT,HBO%20NOW*,Maying
-DOMAIN-SUFFIX,hbo.com,Maying
-DOMAIN-SUFFIX,hbogo.com,Maying
-DOMAIN-SUFFIX,hbonow.com,Maying
+USER-AGENT,HBO%20NOW*,🌏 全球
+DOMAIN-SUFFIX,hbo.com,🌏 全球
+DOMAIN-SUFFIX,hbogo.com,🌏 全球
+DOMAIN-SUFFIX,hbonow.com,🌏 全球
 # > HBO GO HKG
-USER-AGENT,HBO%20GO%20PROD%20HKG*,Maying
-DOMAIN-SUFFIX,hbogoasia.com,Maying
-DOMAIN-SUFFIX,hbogoasia.hk,Maying
-DOMAIN,bcbolthboa-a.akamaihd.net,Maying
-DOMAIN,players.brightcove.net,Maying
-DOMAIN,s3-ap-southeast-1.amazonaws.com,Maying
-DOMAIN,dai3fd1oh325y.cloudfront.net,Maying
-DOMAIN,44wilhpljf.execute-api.ap-southeast-1.amazonaws.com,Maying
-DOMAIN,hboasia1-i.akamaihd.net,Maying
-DOMAIN,hboasia2-i.akamaihd.net,Maying
-DOMAIN,hboasia3-i.akamaihd.net,Maying
-DOMAIN,hboasia4-i.akamaihd.net,Maying
-DOMAIN,hboasia5-i.akamaihd.net,Maying
-DOMAIN,cf-images.ap-southeast-1.prod.boltdns.net,Maying
+USER-AGENT,HBO%20GO%20PROD%20HKG*,🌏 全球
+DOMAIN-SUFFIX,hbogoasia.com,🌏 全球
+DOMAIN-SUFFIX,hbogoasia.hk,🌏 全球
+DOMAIN,bcbolthboa-a.akamaihd.net,🌏 全球
+DOMAIN,players.brightcove.net,🌏 全球
+DOMAIN,s3-ap-southeast-1.amazonaws.com,🌏 全球
+DOMAIN,dai3fd1oh325y.cloudfront.net,🌏 全球
+DOMAIN,44wilhpljf.execute-api.ap-southeast-1.amazonaws.com,🌏 全球
+DOMAIN,hboasia1-i.akamaihd.net,🌏 全球
+DOMAIN,hboasia2-i.akamaihd.net,🌏 全球
+DOMAIN,hboasia3-i.akamaihd.net,🌏 全球
+DOMAIN,hboasia4-i.akamaihd.net,🌏 全球
+DOMAIN,hboasia5-i.akamaihd.net,🌏 全球
+DOMAIN,cf-images.ap-southeast-1.prod.boltdns.net,🌏 全球
 # > 华文电视
-USER-AGENT,HWTVMobile*,Maying
-DOMAIN-SUFFIX,5itv.tv,Maying
-DOMAIN-SUFFIX,ocnttv.com,Maying
+USER-AGENT,HWTVMobile*,🌏 全球
+DOMAIN-SUFFIX,5itv.tv,🌏 全球
+DOMAIN-SUFFIX,ocnttv.com,🌏 全球
 # > Hulu
-DOMAIN-SUFFIX,hulu.com,Maying
-DOMAIN-SUFFIX,huluim.com,Maying
-DOMAIN-SUFFIX,hulustream.com,Maying
+DOMAIN-SUFFIX,hulu.com,🌏 全球
+DOMAIN-SUFFIX,huluim.com,🌏 全球
+DOMAIN-SUFFIX,hulustream.com,🌏 全球
 # > Hulu(フールー)
-DOMAIN-SUFFIX,happyon.jp,Maying
-DOMAIN-SUFFIX,hulu.jp,Maying
+DOMAIN-SUFFIX,happyon.jp,🌏 全球
+DOMAIN-SUFFIX,hulu.jp,🌏 全球
 # > ITV
-USER-AGENT,ITV_Player*,Maying
-DOMAIN-SUFFIX,itv.com,Maying
-DOMAIN-SUFFIX,itvstatic.com,Maying
-DOMAIN,itvpnpmobile-a.akamaihd.net,Maying
+USER-AGENT,ITV_Player*,🌏 全球
+DOMAIN-SUFFIX,itv.com,🌏 全球
+DOMAIN-SUFFIX,itvstatic.com,🌏 全球
+DOMAIN,itvpnpmobile-a.akamaihd.net,🌏 全球
 # > KKTV
-USER-AGENT,KKTV*,Maying
-USER-AGENT,com.kktv.ios.kktv*,Maying
-DOMAIN-SUFFIX,kktv.com.tw,Maying
-DOMAIN-SUFFIX,kktv.me,Maying
-DOMAIN,kktv-theater.kk.stream,Maying
+USER-AGENT,KKTV*,🌏 全球
+USER-AGENT,com.kktv.ios.kktv*,🌏 全球
+DOMAIN-SUFFIX,kktv.com.tw,🌏 全球
+DOMAIN-SUFFIX,kktv.me,🌏 全球
+DOMAIN,kktv-theater.kk.stream,🌏 全球
 # > Line TV
-USER-AGENT,LINE%20TV*,Maying
-DOMAIN-SUFFIX,linetv.tw,Maying
-DOMAIN,d3c7rimkq79yfu.cloudfront.net,Maying
+USER-AGENT,LINE%20TV*,🌏 全球
+DOMAIN-SUFFIX,linetv.tw,🌏 全球
+DOMAIN,d3c7rimkq79yfu.cloudfront.net,🌏 全球
 # > LiTV
-DOMAIN-SUFFIX,litv.tv,Maying
-DOMAIN,litvfreemobile-hichannel.cdn.hinet.net,Maying
+DOMAIN-SUFFIX,litv.tv,🌏 全球
+DOMAIN,litvfreemobile-hichannel.cdn.hinet.net,🌏 全球
 # > My5
-USER-AGENT,My5*,Maying
-DOMAIN-SUFFIX,channel5.com,Maying
-DOMAIN-SUFFIX,my5.tv,Maying
-DOMAIN,d349g9zuie06uo.cloudfront.net,Maying
+USER-AGENT,My5*,🌏 全球
+DOMAIN-SUFFIX,channel5.com,🌏 全球
+DOMAIN-SUFFIX,my5.tv,🌏 全球
+DOMAIN,d349g9zuie06uo.cloudfront.net,🌏 全球
 # > myTV SUPER
-USER-AGENT,mytv*,Maying
-DOMAIN-SUFFIX,mytvsuper.com,Maying
-DOMAIN-SUFFIX,tvb.com,Maying
+USER-AGENT,mytv*,🌏 全球
+DOMAIN-SUFFIX,mytvsuper.com,🌏 全球
+DOMAIN-SUFFIX,tvb.com,🌏 全球
 # > Netflix
-USER-AGENT,Argo*,Maying
-DOMAIN-SUFFIX,fast.com,Maying
-DOMAIN-SUFFIX,netflix.com,Maying
-DOMAIN-SUFFIX,netflix.net,Maying
-DOMAIN-SUFFIX,nflxext.com,Maying
-DOMAIN-SUFFIX,nflximg.com,Maying
-DOMAIN-SUFFIX,nflximg.net,Maying
-DOMAIN-SUFFIX,nflxso.net,Maying
-DOMAIN-SUFFIX,nflxvideo.net,Maying
-DOMAIN-SUFFIX,netflixdnstest0.com,Maying
-DOMAIN-SUFFIX,netflixdnstest1.com,Maying
-DOMAIN-SUFFIX,netflixdnstest2.com,Maying
-DOMAIN-SUFFIX,netflixdnstest3.com,Maying
-DOMAIN-SUFFIX,netflixdnstest4.com,Maying
-DOMAIN-SUFFIX,netflixdnstest5.com,Maying
-DOMAIN-SUFFIX,netflixdnstest6.com,Maying
-DOMAIN-SUFFIX,netflixdnstest7.com,Maying
-DOMAIN-SUFFIX,netflixdnstest8.com,Maying
-DOMAIN-SUFFIX,netflixdnstest9.com,Maying
-IP-CIDR,23.246.0.0/18,Maying
-IP-CIDR,37.77.184.0/21,Maying
-IP-CIDR,45.57.0.0/17,Maying
-IP-CIDR,64.120.128.0/17,Maying
-IP-CIDR,66.197.128.0/17,Maying
-IP-CIDR,108.175.32.0/20,Maying
-IP-CIDR,192.173.64.0/18,Maying
-IP-CIDR,198.38.96.0/19,Maying
-IP-CIDR,198.45.48.0/20,Maying
+USER-AGENT,Argo*,🌏 全球
+DOMAIN-SUFFIX,fast.com,🌏 全球
+DOMAIN-SUFFIX,netflix.com,🌏 全球
+DOMAIN-SUFFIX,netflix.net,🌏 全球
+DOMAIN-SUFFIX,nflxext.com,🌏 全球
+DOMAIN-SUFFIX,nflximg.com,🌏 全球
+DOMAIN-SUFFIX,nflximg.net,🌏 全球
+DOMAIN-SUFFIX,nflxso.net,🌏 全球
+DOMAIN-SUFFIX,nflxvideo.net,🌏 全球
+DOMAIN-SUFFIX,netflixdnstest0.com,🌏 全球
+DOMAIN-SUFFIX,netflixdnstest1.com,🌏 全球
+DOMAIN-SUFFIX,netflixdnstest2.com,🌏 全球
+DOMAIN-SUFFIX,netflixdnstest3.com,🌏 全球
+DOMAIN-SUFFIX,netflixdnstest4.com,🌏 全球
+DOMAIN-SUFFIX,netflixdnstest5.com,🌏 全球
+DOMAIN-SUFFIX,netflixdnstest6.com,🌏 全球
+DOMAIN-SUFFIX,netflixdnstest7.com,🌏 全球
+DOMAIN-SUFFIX,netflixdnstest8.com,🌏 全球
+DOMAIN-SUFFIX,netflixdnstest9.com,🌏 全球
+IP-CIDR,23.246.0.0/18,🌏 全球
+IP-CIDR,37.77.184.0/21,🌏 全球
+IP-CIDR,45.57.0.0/17,🌏 全球
+IP-CIDR,64.120.128.0/17,🌏 全球
+IP-CIDR,66.197.128.0/17,🌏 全球
+IP-CIDR,108.175.32.0/20,🌏 全球
+IP-CIDR,192.173.64.0/18,🌏 全球
+IP-CIDR,198.38.96.0/19,🌏 全球
+IP-CIDR,198.45.48.0/20,🌏 全球
 # > niconico
-USER-AGENT,Niconico*,Maying
-DOMAIN-SUFFIX,dmc.nico,Maying
-DOMAIN-SUFFIX,nicovideo.jp,Maying
-DOMAIN-SUFFIX,nimg.jp,Maying
-DOMAIN-SUFFIX,socdm.com,Maying
+USER-AGENT,Niconico*,🌏 全球
+DOMAIN-SUFFIX,dmc.nico,🌏 全球
+DOMAIN-SUFFIX,nicovideo.jp,🌏 全球
+DOMAIN-SUFFIX,nimg.jp,🌏 全球
+DOMAIN-SUFFIX,socdm.com,🌏 全球
 # > PBS
-USER-AGENT,PBS*,Maying
-DOMAIN-SUFFIX,pbs.org,Maying
+USER-AGENT,PBS*,🌏 全球
+DOMAIN-SUFFIX,pbs.org,🌏 全球
 # > Pornhub
-DOMAIN-SUFFIX,phncdn.com,Maying
-DOMAIN-SUFFIX,phprcdn.com,Maying
-DOMAIN-SUFFIX,pornhub.com,Maying
-DOMAIN-SUFFIX,pornhubpremium.com,Maying
+DOMAIN-SUFFIX,phncdn.com,🌏 全球
+DOMAIN-SUFFIX,phprcdn.com,🌏 全球
+DOMAIN-SUFFIX,pornhub.com,🌏 全球
+DOMAIN-SUFFIX,pornhubpremium.com,🌏 全球
 # > 台湾好
-USER-AGENT,TaiwanGood*,Maying
-DOMAIN-SUFFIX,skyking.com.tw,Maying
-DOMAIN,hamifans.emome.net,Maying
+USER-AGENT,TaiwanGood*,🌏 全球
+DOMAIN-SUFFIX,skyking.com.tw,🌏 全球
+DOMAIN,hamifans.emome.net,🌏 全球
 # > Twitch
-DOMAIN-SUFFIX,twitch.tv,Maying
-DOMAIN-SUFFIX,twitchcdn.net,Maying
-DOMAIN-SUFFIX,ttvnw.net,Maying
-DOMAIN-SUFFIX,jtvnw.net,Maying
+DOMAIN-SUFFIX,twitch.tv,🌏 全球
+DOMAIN-SUFFIX,twitchcdn.net,🌏 全球
+DOMAIN-SUFFIX,ttvnw.net,🌏 全球
+DOMAIN-SUFFIX,jtvnw.net,🌏 全球
 # > ViuTV
-USER-AGENT,Viu*,Maying
-USER-AGENT,ViuTV*,Maying
-DOMAIN-SUFFIX,viu.com,Maying
-DOMAIN-SUFFIX,viu.tv,Maying
-DOMAIN,api.viu.now.com,Maying
-DOMAIN,d1k2us671qcoau.cloudfront.net,Maying
-DOMAIN,d2anahhhmp1ffz.cloudfront.net,Maying
-DOMAIN,dfp6rglgjqszk.cloudfront.net,Maying
+USER-AGENT,Viu*,🌏 全球
+USER-AGENT,ViuTV*,🌏 全球
+DOMAIN-SUFFIX,viu.com,🌏 全球
+DOMAIN-SUFFIX,viu.tv,🌏 全球
+DOMAIN,api.viu.now.com,🌏 全球
+DOMAIN,d1k2us671qcoau.cloudfront.net,🌏 全球
+DOMAIN,d2anahhhmp1ffz.cloudfront.net,🌏 全球
+DOMAIN,dfp6rglgjqszk.cloudfront.net,🌏 全球
 # > YouTube
-USER-AGENT,com.google.ios.youtube*,Maying
-USER-AGENT,YouTube*,Maying
-DOMAIN-SUFFIX,googlevideo.com,Maying
-DOMAIN-SUFFIX,youtube.com,Maying
-DOMAIN,youtubei.googleapis.com,Maying
+USER-AGENT,com.google.ios.youtube*,🌏 全球
+USER-AGENT,YouTube*,🌏 全球
+DOMAIN-SUFFIX,googlevideo.com,🌏 全球
+DOMAIN-SUFFIX,youtube.com,🌏 全球
+DOMAIN,youtubei.googleapis.com,🌏 全球
