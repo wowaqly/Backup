@@ -16,25 +16,25 @@ proxies:
   -
     name: Maying-405
     type: ssr
-    server:  no7561739597.internetworld.cloud
-    port: 1405
+    server:  x.x.x.x
+    port: 0001
     cipher: rc4-md5
-    password: wzoUWAr1
+    password: xxxxx
     protocol: auth_aes128_md5
-    protocol-param: '10710:ietlaya2EnB'
+    protocol-param: 'xxx:xxxx'
     obfs: tls1.2_ticket_auth
-    obfs-param: upos-sz-mirrorcos.bilivideo.com
+    obfs-param: xxx.xxx.xxx
   -
     name: Maying-425
     type: ssr
-    server: no7654967782.internetworld.cloud
-    port: 1425
+    server: x.x.x.x
+    port: 1000
     cipher: rc4-md5
-    password: wzoUWAr1
+    password: xxxxxx
     protocol: auth_aes128_md5
-    protocol-param: '10710:ietlaya2EnB'
+    protocol-param: 'xxx:xxxx'
     obfs: tls1.2_ticket_auth
-    obfs-param: upos-sz-mirrorcos.bilivideo.com
+    obfs-param: xxx.xxx.xxx
 	
 #-----------------------myporxy------------------------#
   -
