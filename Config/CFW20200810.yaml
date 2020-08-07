@@ -40,21 +40,21 @@ proxies:
   -
     name: 回家r
     type: ssr
-    server: hj.aqly.top
-    port: 18626
+    server: xx.xx.xx
+    port: 11111
     cipher: rc4-md5
-    password: "^AcnZBt6Ue{la+Q<Uxz#"
+    password: "xxxxxxx"
     protocol: auth_aes128_md5
     protocol-param: ''
     obfs: tls1.2_ticket_auth
-    obfs-param: 90oo.com
+    obfs-param: xxx.xxx
   -
     name: 回家s
     type: ss
-    server: hj.aqly.top
-    port: 19626
+    server: xx.xx.xx
+    port: 111111
     cipher: aes-256-gcm
-    password: "^AcnZBt6Ue{la+Q<Uxz#"
+    password: "xxxxxxxx"
 #---------------------------------------------------#
 
 proxy-groups:
