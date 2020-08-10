@@ -1,4 +1,8 @@
 # Surge for MAC
+#自添加
+DOMAIN-SUFFIX,web.voice.telephony.goog
+
+
 # Backup for https://github.com/wowaqly/Profiles/blob/master/Surge/Ruleset/Global.list
 # Backup for https://github.com/wowaqly/Profiles/blob/master/Surge/Ruleset/GlobalMedia.list
 
