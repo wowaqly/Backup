@@ -392,3 +392,5 @@ DOMAIN,images-cn.ssl-images-amazon.com
 
 # DNSPod Public DNS+
 IP-CIDR,119.28.28.28/32,no-resolve
+
+GEOIP,CN
