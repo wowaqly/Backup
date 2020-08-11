@@ -1,3 +1,14 @@
+#手动添加
+DOMAIN-SUFFIX,clash.to,🌏 全球
+DOMAIN-SUFFIX,github.com,🌏 全球
+DOMAIN-SUFFIX,githubusercontent.com,🌏 全球
+DOMAIN-SUFFIX,githubassets.com,🌏 全球
+DOMAIN-SUFFIX,ssr.sh,🌏 全球
+DOMAIN-SUFFIX,maying.co,🌏 全球
+
+
+
+
 # Backup fo "https://github.com/ConnersHua/Profiles/blob/master/Quantumult/X/Filter/Global.list" and
 # Backup fo "https://github.com/ConnersHua/Profiles/blob/master/Quantumult/X/Filter/GlobalMedia.list"
 # (DNS Cache Pollution Protection)
