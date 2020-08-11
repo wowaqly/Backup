@@ -1,7 +1,10 @@
 # Surge for MAC
+#自添规则
+DOMAIN-SUFFIX,bilivideo.com
+
+
 # Backup for https://github.com/ConnersHua/Profiles/edit/master/Surge/Ruleset/China.list
 # Backup for https://github.com/ConnersHua/Profiles/blob/master/Surge/Ruleset/Unbreak.list
-
 
 # China Area Network
 # > 360
