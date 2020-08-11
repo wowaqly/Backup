@@ -1,6 +1,8 @@
 # Surge for MAC
-# Backup for https://github.com/wowaqly/Profiles/blob/master/Surge/Ruleset/China.list
-# Backup for https://github.com/wowaqly/Profiles/blob/master/Surge/Ruleset/Unbreak.list
+# Backup for https://github.com/ConnersHua/Profiles/edit/master/Surge/Ruleset/China.list
+# Backup for https://github.com/ConnersHua/Profiles/blob/master/Surge/Ruleset/Unbreak.list
+
+
 # China Area Network
 # > 360
 DOMAIN-SUFFIX,qhres.com
@@ -195,6 +197,7 @@ DOMAIN-SUFFIX,whatismyip.com
 DOMAIN-SUFFIX,netspeedtestmaster.com
 DOMAIN,speedtest.macpaw.com
 # > Private Tracker
+DOMAIN-SUFFIX,animebytes.tv
 DOMAIN-SUFFIX,awesome-hd.me
 DOMAIN-SUFFIX,broadcasthe.net
 DOMAIN-SUFFIX,chdbits.co
@@ -210,6 +213,7 @@ DOMAIN-SUFFIX,jpopsuki.eu
 DOMAIN-SUFFIX,keepfrds.com
 DOMAIN-SUFFIX,madsrevolution.net
 DOMAIN-SUFFIX,morethan.tv
+DOMAIN-SUFFIX,myanonamouse.net
 DOMAIN-SUFFIX,m-team.cc
 DOMAIN-SUFFIX,nanyangpt.com
 DOMAIN-SUFFIX,ncore.cc
@@ -392,13 +396,12 @@ DOMAIN-SUFFIX,zhimg.com
 DOMAIN-SUFFIX,zhuihd.com
 DOMAIN,download.jetbrains.com
 DOMAIN,images-cn.ssl-images-amazon.com
+DOMAIN,cdn.angruo.com
 
 # DNSPod Public DNS+
 IP-CIDR,119.28.28.28/32,no-resolve
+IP-CIDR,182.254.116.0/24
 
-
-
-  
 # Unbreak
 # > General
 USER-AGENT,coffeecorp*
