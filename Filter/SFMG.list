@@ -1,5 +1,5 @@
-# Surge for MAC
-#自添加
+# Surge for MAC Global
+#手动添加
 DOMAIN-SUFFIX,web.voice.telephony.goog
 DOMAIN-SUFFIX,clash.to
 DOMAIN-SUFFIX,github.com
