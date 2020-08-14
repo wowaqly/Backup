@@ -3,6 +3,7 @@
 DOMAIN-SUFFIX,bilivideo.com
 DOMAIN-SUFFIX,msn.com
 DOMAIN-SUFFIX,aliyun.com
+IP-CIDR,0.1.0.1/32
 
 # Backup for https://github.com/ConnersHua/Profiles/edit/master/Surge/Ruleset/China.list
 # Backup for https://github.com/ConnersHua/Profiles/blob/master/Surge/Ruleset/Unbreak.list
