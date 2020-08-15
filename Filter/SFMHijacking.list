@@ -1,9 +1,6 @@
 ##屏蔽清单
 ##自添规则
 
-DOMAIN-SUFFIX,scorecardresearch.com
-DOMAIN-SUFFIX,yandex.net
-
 # Backup for https://raw.githubusercontent.com/ConnersHua/Profiles/master/Surge/Ruleset/Hijacking.list
 # Backup for https://github.com/wowaqly/Profiles/edit/master/Surge/Ruleset/Advertising.list
 
