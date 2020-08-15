@@ -1,17 +1,9 @@
 # Surge for MAC China
 #自添规则
 DOMAIN-SUFFIX,bilivideo.com
-DOMAIN-SUFFIX,msn.com
 DOMAIN-SUFFIX,aliyun.com
 IP-CIDR,0.1.0.1/32
-DOMAIN-SUFFIX,smtcdns.net
-DOMAIN-SUFFIX,office.com
-DOMAIN-SUFFIX,skype.com
-DOMAIN-SUFFIX,live.com
-DOMAIN-SUFFIX,msocdn.com
-DOMAIN-SUFFIX,gfx.ms
-DOMAIN-SUFFIX,office.net
-DOMAIN-SUFFIX,skypeassets.com
+
 
 
 
