@@ -8,6 +8,11 @@ DOMAIN-SUFFIX,smtcdns.net
 DOMAIN-SUFFIX,office.com
 DOMAIN-SUFFIX,skype.com
 DOMAIN-SUFFIX,live.com
+DOMAIN-SUFFIX,msocdn.com
+DOMAIN-SUFFIX,gfx.ms
+
+
+
 
 # Backup for https://github.com/ConnersHua/Profiles/edit/master/Surge/Ruleset/China.list
 # Backup for https://github.com/ConnersHua/Profiles/blob/master/Surge/Ruleset/Unbreak.list
