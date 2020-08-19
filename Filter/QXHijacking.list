@@ -1,9 +1,9 @@
 #自添规则
+DOMAIN-SUFFIX,xdrig.com,REJECT
+
+
 #Backup for https://github.com/ConnersHua/Profiles/blob/master/Quantumult/X/Filter/Hijacking.list
 #Backup for https://github.com/ConnersHua/Profiles/blob/master/Quantumult/X/Filter/Advertising.list
-
-
-
 # Internet Service Providers Hijacking 运营商劫持
 DOMAIN-SUFFIX,17gouwuba.com,REJECT
 DOMAIN-SUFFIX,186078.com,REJECT
