@@ -1,7 +1,7 @@
 #自添规则
 
-# > Youtube and Google Backup for  "https://github.com/SteamedFish/gfwiplist/blob/master/gfwiplist.txt" - "# Google" （just - IP-CIDR )
-# > Netflix Backup for "https://github.com/lhie1/Rules/blob/master/Surge/Surge%203/Provider/Media/Netflix.list"  （just - IP-CIDR )
+# > Youtube and Google Backup for  "https://github.com/SteamedFish/gfwiplist/blob/master/gfwiplist.txt" - "# Google" 
+# > Netflix Backup for "https://github.com/lhie1/Rules/blob/master/Surge/Surge%203/Provider/Media/Netflix.list"  
 # > Youtube and Google 
 - IP-CIDR,64.18.0.0/20
 - IP-CIDR,64.233.160.0/19
@@ -102,10 +102,23 @@
 - IP-CIDR,208.65.152.0/22
 - IP-CIDR,208.117.224.0/19
 - IP-CIDR,216.239.60.0/24
-
+- DOMAIN-KEYWORD,youtube
+- DOMAIN,yt3.ggpht.com
+- DOMAIN-SUFFIX,app-measurement.com
+- DOMAIN-SUFFIX,googlevideo.com
+- DOMAIN-SUFFIX,gvt2.com
+- DOMAIN-SUFFIX,youtu.be
+- DOMAIN-SUFFIX,ytimg.com
 ##############################################################################################################################################################
 # > Netflix
-
+- DOMAIN,netflix.com.edgesuite.net
+- DOMAIN-SUFFIX,netflix.com
+- DOMAIN-SUFFIX,netflix.net
+- DOMAIN-SUFFIX,nflxext.com
+- DOMAIN-SUFFIX,nflximg.com
+- DOMAIN-SUFFIX,nflximg.net
+- DOMAIN-SUFFIX,nflxso.net
+- DOMAIN-SUFFIX,nflxvideo.net
 - IP-CIDR,1.37.35.6/32
 - IP-CIDR,101.100.179.242/32
 - IP-CIDR,101.100.179.250/32
