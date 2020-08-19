@@ -1,6 +1,6 @@
 ##屏蔽清单
 ##自添规则
-
+- IP-CIDR,203.208.32.0/19,❌ 选拒
 # Backup for https://raw.githubusercontent.com/ConnersHua/Profiles/master/Surge/Ruleset/Hijacking.list
 # Backup for https://github.com/wowaqly/Profiles/edit/master/Surge/Ruleset/Advertising.list
 
