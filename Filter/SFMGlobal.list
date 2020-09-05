@@ -1,13 +1,7 @@
 # Surge for MAC Global
 #手动添加
-DOMAIN-SUFFIX,web.voice.telephony.goog
+OMAIN-SUFFIX,web.voice.telephony.goog
 DOMAIN-SUFFIX,clash.to
-DOMAIN-SUFFIX,github.com
-DOMAIN-SUFFIX,githubusercontent.com
-DOMAIN-SUFFIX,githubassets.com
-DOMAIN-SUFFIX,githubapp.com
-DOMAIN-SUFFIX,ssr.sh
-DOMAIN-SUFFIX,maying.co
 DOMAIN-SUFFIX,tempestapp.io
 DOMAIN-SUFFIX,v2ex.com
 
