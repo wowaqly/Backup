@@ -1,0 +1,5 @@
+# Surge for MAC China
+#自添规则
+DOMAIN-SUFFIX,bilivideo.com
+DOMAIN-SUFFIX,aliyun.com
+IP-CIDR,0.1.0.1/32
