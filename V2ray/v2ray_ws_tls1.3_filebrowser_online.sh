@@ -250,11 +250,17 @@ function install_filebrowser(){
     mv filebrowser /filebrowser
     cd /filebrowser
     ./filebrowser -d /filebrowser/filebrowser.db config init
+    sleep 2s
     ./filebrowser -d /filebrowser/filebrowser.db config set --address 0.0.0.0
+    sleep 2s
     ./filebrowser -d /filebrowser/filebrowser.db config set --port 8888
+    sleep 2s
     ./filebrowser -d /filebrowser/filebrowser.db config set --locale zh-cn
+    sleep 2s
     ./filebrowser -d /filebrowser/filebrowser.db config set --log /filebrowser/filebrowser.log
-    ./filebrowser -d /filebrowser/filebrowser.db users add admin 123456 --perm.admin
+    sleep 2s
+    ./filebrowser -d /filebrowser/filebrowser.db users add admin admin --perm.admin
+    sleep 2s
 cat > /etc/systemd/system/filebrowser.service<<-EOF
 [Unit]
 Description=File Browser
@@ -410,7 +416,7 @@ function start_menu(){
     green " OS support : debian9+/ubuntu16.04+                       "
     green " 一般不需要手动更新ssl,出现证书过期问题再使用      "
     green " filebrowser  打开方式 xxx.xxxx.top/fb      "
-    green " filebrowser  初始用户名 admin 密码 123456      "
+    green " filebrowser  初始用户名 admin 密码 admin      "
     green " ==============================================="
     echo
     green " 1. 安装 v2ray+ws+tls1.3+filebrowser"
