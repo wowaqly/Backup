@@ -379,7 +379,6 @@ function remove_package(){
     rm -rf /root/LICENSE
     rm -rf /root/CHANGELOG.md
     rm -rf /root/README.md
-    rm -rf /root/.acme.sh
     rm -rf /root/acme.sh
     rm -rf /root/acme.sh.zip
     rm -rf /root/nginx-1.15.8.tar.gz
