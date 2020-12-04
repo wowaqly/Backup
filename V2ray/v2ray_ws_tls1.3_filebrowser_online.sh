@@ -250,17 +250,10 @@ function install_filebrowser(){
     mv filebrowser /filebrowser
     cd /filebrowser
     ./filebrowser -d /filebrowser/filebrowser.db config init
-    sleep 2s
     ./filebrowser -d /filebrowser/filebrowser.db config set --address 0.0.0.0
-    sleep 2s
     ./filebrowser -d /filebrowser/filebrowser.db config set --port 8888
-    sleep 2s
     ./filebrowser -d /filebrowser/filebrowser.db config set --locale zh-cn
-    sleep 2s
     ./filebrowser -d /filebrowser/filebrowser.db config set --log /filebrowser/filebrowser.log
-    sleep 2s
-    ./filebrowser -d /filebrowser/filebrowser.db users add admin admin --perm.admin
-    sleep 2s
 cat > /etc/systemd/system/filebrowser.service<<-EOF
 [Unit]
 Description=File Browser
