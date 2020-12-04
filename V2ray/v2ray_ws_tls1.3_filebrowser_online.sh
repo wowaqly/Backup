@@ -376,6 +376,9 @@ function remove_v2ray(){
 }
 
 function remove_package(){
+    rm -rf /root/LICENSE
+    rm -rf /root/CHANGELOG.md
+    rm -rf /root/README.md
     rm -rf /root/.acme.sh
     rm -rf /root/acme.sh
     rm -rf /root/acme.sh.zip
