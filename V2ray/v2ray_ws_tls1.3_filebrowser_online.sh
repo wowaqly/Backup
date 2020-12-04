@@ -376,6 +376,7 @@ function remove_v2ray(){
 }
 
 function remove_package(){
+    rm -rf /root/.acme.sh
     rm -rf /root/acme.sh
     rm -rf /root/acme.sh.zip
     rm -rf /root/nginx-1.15.8.tar.gz
