@@ -168,27 +168,11 @@ server {
         proxy_redirect off;
         proxy_pass http://127.0.0.1:12345; 
         proxy_http_version 1.1;
+	client_max_body_size 0;
         proxy_set_header Upgrade \$http_upgrade;
         proxy_set_header Connection "upgrade";
         proxy_set_header Host \$http_host;
     }
-    #反代filebrowser
-    location /fb {
-        client_max_body_size 0;
-        proxy_read_timeout 60s;
-        proxy_send_timeout 60s;
-        proxy_set_header X-Forwarded-Host \$host;
-        proxy_set_header X-Forwarded-Server \$host;
-        proxy_set_header X-Real-IP \$remote_addr;
-        proxy_set_header Host \$host;
-        proxy_set_header X-Forwarded-For \$proxy_add_x_forwarded_for;
-        proxy_http_version 1.1;
-        proxy_redirect off;
-        proxy_set_header Upgrade \$http_upgrade;
-        proxy_set_header Connection "upgrade";
-        proxy_pass http://127.0.0.1:8888;
-        } 
-}
 EOF
 
 cat > /etc/systemd/system/nginx.service<<-EOF
@@ -208,7 +192,7 @@ WantedBy=multi-user.target
 EOF
 chmod 777 /etc/systemd/system/nginx.service
 systemctl enable nginx.service
-install_filebrowser
+install_v2ray
 }
 
 #安装nginx
@@ -240,34 +224,6 @@ function install(){
 	    exit 1
 	fi
     fi
-}
-#安装filebrowser
-function install_filebrowser(){
-    cd /root
-	curl -s https://api.github.com/repos/filebrowser/filebrowser/releases/latest | grep "browser_download_url.*linux-amd64-filebrowser.tar.gz" | cut -d '"' -f 4 | wget -i -
-	tar -xvf linux-amd64-filebrowser.tar.gz
-	mkdir -p /filebrowser
-    mv filebrowser /filebrowser
-    cd /filebrowser
-    ./filebrowser -d /filebrowser/filebrowser.db config init
-    ./filebrowser -d /filebrowser/filebrowser.db config set --address 127.0.0.1
-    ./filebrowser -d /filebrowser/filebrowser.db config set --port 8888
-    ./filebrowser -d /filebrowser/filebrowser.db config set --locale zh-cn
-    ./filebrowser -d /filebrowser/filebrowser.db config set --log /filebrowser/filebrowser.log
-    ./filebrowser -d /filebrowser/filebrowser.db users add admin admin --perm.admin
-cat > /etc/systemd/system/filebrowser.service<<-EOF
-[Unit]
-Description=File Browser
-After=network.target
-
-[Service]
-ExecStart=/filebrowser/filebrowser -d /filebrowser/filebrowser.db
-
-[Install]
-WantedBy=multi-user.target
-EOF
-     systemctl enable filebrowser.service 
-     install_v2ray
 }
 
 #安装v2ray
@@ -302,8 +258,7 @@ EOF
     chmod 777 /etc/systemd/system/v2ray.service
     systemctl enable v2ray.service
     systemctl restart v2ray.service
-    systemctl restart nginx.service
-    systemctl restart filebrowser.service    
+    systemctl restart nginx.service   
     
 cat > /v2ray/myconfig.json<<-EOF
 {
@@ -354,7 +309,7 @@ function update_v2ray(){
 	rm -rf /root/lingshi389
     systemctl restart v2ray.service
 }
-#删除 v2ray-nginx-filebrowser
+#删除 v2ray-nginx
 function remove_v2ray(){
     systemctl daemon-reload
     /etc/nginx/sbin/nginx -s stop
@@ -362,17 +317,13 @@ function remove_v2ray(){
     systemctl disable v2ray.service
 	systemctl stop nginx.service
     systemctl disable nginx.service
-	systemctl stop filebrowser.service
-    systemctl disable filebrowser.service
-    rm -rf /filebrowser
     rm -rf /v2ray
     rm -rf /usr/local/share/v2ray/ /usr/local/etc/v2ray/
     rm -rf /etc/systemd/system/v2ray*
 	rm -rf /etc/systemd/system/v2ray.*
 	rm -rf /etc/systemd/system/nginx.*
-	rm -rf /etc/systemd/system/filebrowser.*
     rm -rf /etc/nginx
-    green "nginx、v2ray、filebrowser已删除"
+    green "nginx、v2ray"
 }
 
 function remove_package(){
@@ -388,7 +339,6 @@ function remove_package(){
 	rm -rf nginx-1.15.8
 	rm -rf openssl-1.1.1a
 	rm -f /root/v2ray-linux-64.zip.dgst
-	rm -f /root/linux-amd64-filebrowser.tar.gz
     green "安装包已删除"  
 }
 
@@ -409,15 +359,13 @@ function start_menu(){
     green " Info       : onekey script install v2ray+ws+tls        "
     green " OS support : debian9+/ubuntu16.04+                       "
     green " 一般不需要手动更新ssl,出现证书过期问题再使用      "
-    green " filebrowser  打开方式 xxx.xxxx.top/fb      "
-    green " filebrowser  初始用户名 admin 密码 admin      "
     green " ==============================================="
     echo
-    green " 1. 安装 v2ray+ws+tls1.3+filebrowser"
+    green " 1. 安装 v2ray+ws+tls1.3"
     green " 2. 手动更新 ssl"
     green " 3. 更新 v2ray"
     red " 4. 删除安装包"
-    red " 8. 删除 v2ray-nginx-filebrowser"
+    red " 8. 删除 v2ray-nginx"
     yellow " 0. 退出"
     echo
     read -p "Pls enter a number:" num
