@@ -175,8 +175,8 @@ server {
     #反代filebrowser
     location /fb {
         client_max_body_size 0;
-        proxy_read_timeout 10s;
-        proxy_send_timeout 10s;
+        proxy_read_timeout 1m;
+        proxy_send_timeout 1m;
         proxy_set_header X-Forwarded-Host \$host;
         proxy_set_header X-Forwarded-Server \$host;
         proxy_set_header X-Real-IP \$remote_addr;
