@@ -87,29 +87,29 @@ mkdir /docker/filebrowser/config
     blue "请输入用于web管理界面的端口号 范围1-65533"
     blue "请注意不要重复使用端口"
     green "======================="
-    read WEB_PORT
+    read fbWEB_PORT
 ######################################
 ######################################
     green "======================="
     blue "请输入显示的UID"
     green "======================="
     id
-    read UID
+    read fbUID
 ######################################
 ######################################
     green "======================="
     blue "请输入显示的GID "
     green "======================="
     id
-    read GID
+    read fbGID
 ######################################
 docker run -d --name filebrowser \
   --restart=unless-stopped \
-  -e PUID=$UID \
-  -e PGID=$GID \
-  -e WEB_PORT= $WEB_PORT\
+  -e PUID=$fbUID \
+  -e PGID=$fbGID \
+  -e WEB_PORT= $fbWEB_PORT\
   -e FB_AUTH_SERVER_ADDR=127.0.0.1 \
-  -p $WEB_PORT:$WEB_PORT \
+  -p $fbWEB_PORT:$fbWEB_PORT \
   -v /docker/filebrowser/config:/config \
   -v /:/myfiles \
   --mount type=tmpfs,destination=/tmp \
@@ -153,22 +153,22 @@ mkdir /docker/aria2/config
     blue "请输入显示的UID"
     green "======================="
     id
-    read UID
+    read aria2UID
 ######################################
 ######################################
     green "======================="
     blue "请输入显示的GID "
     green "======================="
     id
-    read GID
+    read aria2GID
 ######################################
 docker run -d \
     --name aria2-pro \
     --restart unless-stopped \
     --log-opt max-size=1m \
     --network host \
-    -e PUID=$UID \
-    -e PGID=$GID \
+    -e PUID=$aria2UID \
+    -e PGID=$aria2GID \
     -e RPC_SECRET=$aria2_RPC_SECRET \
     -e RPC_PORT=$aira2_RPC_PORT \
     -e LISTEN_PORT=$aria2_LISTEN_PORT \
