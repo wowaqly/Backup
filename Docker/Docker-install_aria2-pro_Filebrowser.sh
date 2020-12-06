@@ -179,8 +179,6 @@ green "aria2-pro安装完毕"
 green "如果需要https-RCP连接，建议使用web服务反代，或者frp反代"
 }
 # 说明
-#更新Docker
-}
 function ps_docker(){
  clear
     green " ==============================================="
