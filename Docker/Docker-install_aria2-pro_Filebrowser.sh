@@ -107,7 +107,7 @@ docker run -d --name filebrowser \
   --restart=unless-stopped \
   -e PUID=$fbUID \
   -e PGID=$fbGID \
-  -e WEB_PORT= $fbWEB_PORT\
+  -e WEB_PORT=$fbWEB_PORT\
   -e FB_AUTH_SERVER_ADDR=127.0.0.1 \
   -p $fbWEB_PORT:$fbWEB_PORT \
   -v /docker/filebrowser/config:/config \
