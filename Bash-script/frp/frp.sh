@@ -155,7 +155,7 @@ function install_frp_frpc(){
     green "======================="
     blue "安装后请先自行去/frp修改frpc.ini再去手动启动frpc"
     green "======================="
-    wget -O /frp/frpc.ini-explain.readme https://raw.githubusercontent.com/wowaqly/Backup/patch/frp/frpc.ini-explain.readme
+    wget -O /frp/frpc.ini-explain.readme https://raw.githubusercontent.com/wowaqly/Backup/patch/Bash-script/frp/frpc.ini-explain.readme
 
 cat > /etc/systemd/system/frpc.service<<-EOF
 [Unit]
