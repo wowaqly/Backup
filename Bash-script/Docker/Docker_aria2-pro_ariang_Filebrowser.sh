@@ -177,6 +177,26 @@ docker run -d \
     p3terx/aria2-pro
 green "aria2-pro安装完毕"
 green "如果需要https-RCP连接，建议使用web服务反代，或者frp反代"
+sleep 2s
+install_ariang
+}
+#安装ariang
+function install_ariang(){
+######################################
+    green "======================="
+    blue "请输入用于AriaNg-WEB的端口号 范围1-65533"
+    blue "没有特别需求建议6880，请注意不要重复使用端口"
+    green "======================="
+    read ariang_web_port 
+######################################
+docker run -d \
+  --name ariang \
+  --log-opt max-size=1m \
+  --restart unless-stopped \
+  -p $ariang_web_port:6880 \
+  p3terx/ariang
+green "ariang安装完毕"
+green "如果需要https建议使用web服务反代，或者frp反代"
 }
 # 说明
 function ps_docker(){
