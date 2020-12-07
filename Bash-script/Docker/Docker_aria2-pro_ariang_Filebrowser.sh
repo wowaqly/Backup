@@ -249,7 +249,7 @@ function start_menu(){
     green " 2. 更新Docker"
     green " 3. 安装filebrowser"
     green " 4. 安装aria2-pro"
-    green " 5. 安装aria2-pro"
+    green " 5. 安装ariang"
     green " 6. docker停止/重启/删除容器说明"
     yellow " 0. 退出"
     echo
