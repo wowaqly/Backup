@@ -244,7 +244,7 @@ function start_menu(){
     ps_docker
     ;;
     0)
-    exit 1
+    exit
     ;;
     *)
     clear
