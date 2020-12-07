@@ -35,7 +35,7 @@ EOF
     green " Docker已安装"
     ;;
     2)
-    rcurl -fsSL https://get.docker.com | bash -s docker
+    curl -fsSL https://get.docker.com | bash -s docker
     green " Docker已安装"
     ;;
     0)
