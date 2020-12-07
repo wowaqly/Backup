@@ -178,7 +178,7 @@ docker run -d \
 green "aria2-pro安装完毕"
 green "如果需要https-RCP连接，建议使用web服务反代，或者frp反代"
 sleep 2s
-install_ariang
+install_ariang_menu
 }
 #安装ariang
 function install_ariang(){
@@ -210,7 +210,33 @@ function ps_docker(){
     green " docker rmi 镜像id ---删除镜像---需要先删除容器 "   
     green " ==============================================="
 }
-#菜单
+#分菜单Araign
+function install_ariang_menu(){
+    clear
+    green " ==============================================="
+    green " 是否需要安装Ariang(可以在菜单中单独选择安装)"
+    green " ==============================================="
+    echo
+    green " 1. 安装"
+    green " 2. 不安装"
+    echo
+    read -p "Pls enter a number:" num
+    case "$num" in
+    1)
+    install_ariang
+    ;;
+    2)
+    exit
+    ;;
+    *)
+    clear
+    red "Enter the correct number"
+    sleep 2s
+    install_ariang_menu
+    ;;
+    esac
+}
+#主菜单
 function start_menu(){
     clear
     green " ==============================================="
@@ -223,7 +249,8 @@ function start_menu(){
     green " 2. 更新Docker"
     green " 3. 安装filebrowser"
     green " 4. 安装aria2-pro"
-    green " 5. docker停止/重启/删除容器说明"
+    green " 5. 安装aria2-pro"
+    green " 6. docker停止/重启/删除容器说明"
     yellow " 0. 退出"
     echo
     read -p "Pls enter a number:" num
@@ -241,6 +268,9 @@ function start_menu(){
     install_aria2-pro
     ;;
     5)
+    install_ariang
+    ;;
+    6)
     ps_docker
     ;;
     0)
