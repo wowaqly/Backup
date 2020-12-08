@@ -2,4 +2,5 @@
 #自添规则
 DOMAIN-SUFFIX,bilivideo.com
 DOMAIN-SUFFIX,aliyun.com
+DOMAIN-SUFFIX,qcloud.com
 IP-CIDR,0.1.0.1/32
