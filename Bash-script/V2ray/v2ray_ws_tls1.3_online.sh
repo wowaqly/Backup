@@ -448,7 +448,6 @@ function install_nginx_camouflage(){
     ;;
     2)
     install_nginx_web
-    clear
 }
 #主菜单
 function start_menu(){
@@ -486,7 +485,7 @@ function start_menu(){
     remove_v2ray 
     ;;
     0)
-    exit 1
+    exit
     ;;
     *)
     clear
