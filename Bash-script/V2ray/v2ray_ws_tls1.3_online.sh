@@ -140,6 +140,7 @@ EOF
     blue "例如—— https://www.videvo.net"
     blue "有的网站是无法反代的，如果打不开网页试着换个网站吧"
     blue "如果是代理filebrowser，需要去/etc/nginx/conf.d/default.conf删除标记的注释"
+    blue "如果是使用了cloduflare works的反代，需要去/etc/nginx/conf.d/default.conf把error_page 400 = 后面的网址改成反代后的网址"
     green "======================="
     read pretend_url
 cat > /etc/nginx/conf.d/default.conf<<-EOF
