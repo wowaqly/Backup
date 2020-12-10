@@ -448,6 +448,8 @@ function install_nginx_camouflage(){
     ;;
     2)
     install_nginx_web
+    ;;
+    esac
 }
 #主菜单
 function start_menu(){
