@@ -119,6 +119,7 @@ http {
     #tcp_nopush     on;
     keepalive_timeout  120;
     client_max_body_size 20m;
+    proxy_intercept_errors on;
     #gzip  on;
     include /etc/nginx/conf.d/*.conf;
 }
@@ -150,6 +151,7 @@ server {
 server {
     listen 443 ssl http2;
     server_name $your_domain;
+    error_page 400 = https://$your_domain;
     location / {
         proxy_pass $pretend_url;
         #如果是代理filebrowser，需要删除以下注释
