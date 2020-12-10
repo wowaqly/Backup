@@ -12,7 +12,6 @@
       "clients": [
         {
           "id": "aaaa",
-          "level": 1,
           "alterId": 64
         }
       ]
