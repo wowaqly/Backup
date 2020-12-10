@@ -279,6 +279,7 @@ function install(){
     $systemPackage install -y wget curl unzip >/dev/null 2>&1
     green "======================="
     blue "请输入绑定到本VPS的域名"
+    blue " 如果你的域名已经添加过Cloudflare的cdn，需要先去取消cdn(小黄云），安装完成后再打开cdn(小黄云) "
     green "======================="
     read your_domain
     real_addr=`ping ${your_domain} -c 1 | sed '1{s/[^(]*(//;s/).*//;q}'`
@@ -457,6 +458,7 @@ function start_menu(){
     green " ==============================================="
     green " Info       : onekey script install v2ray+ws+tls        "
     green " OS support : debian9+/ubuntu16.04+                       "
+    green " 如果你的域名已经添加过Cloudflare的cdn，需要先去取消cdn(小黄云），安装完成后再打开cdn(小黄云)      "
     green " 一般不需要手动更新ssl,出现证书过期问题再使用      "
     green " ==============================================="
     echo
