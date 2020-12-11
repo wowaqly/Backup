@@ -3,3 +3,5 @@ DOMAIN-SUFFIX,github.io
 DOMAIN-SUFFIX,githubusercontent.com
 DOMAIN-SUFFIX,githubassets.com
 DOMAIN-SUFFIX,githubapp.com
+#github上传文件可能会用到amazonaws的服务器
+DOMAIN-SUFFIX,amazonaws.com
