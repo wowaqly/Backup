@@ -1,0 +1,33 @@
+PROCESS-NAME,QQ jietu plugin
+PROCESS-NAME,Plex Commercial Skipper
+PROCESS-NAME,Plex DLNA Server
+PROCESS-NAME,Plex Media Fingerprinter
+PROCESS-NAME,Plex Media Scanner
+PROCESS-NAME,Plex Relay
+PROCESS-NAME,Plex Transcoder
+PROCESS-NAME,Plex Tuner Service
+PROCESS-NAME,Plex Script Host
+PROCESS-NAME,Plex Media Server
+PROCESS-NAME,DownloadService
+PROCESS-NAME,p4pclient
+PROCESS-NAME,RRShare
+PROCESS-NAME,com.docker.vpnkit
+PROCESS-NAME,wpsoffice
+PROCESS-NAME,wpscloudsvr
+PROCESS-NAME,QQMusic
+PROCESS-NAME,WeChat
+PROCESS-NAME,QQ
+PROCESS-NAME,v2ray
+PROCESS-NAME,UUBooster
+PROCESS-NAME,ss-local
+PROCESS-NAME,pogo
+PROCESS-NAME,aria2c
+PROCESS-NAME,fdm
+PROCESS-NAME,Folx
+PROCESS-NAME,NetTransport
+PROCESS-NAME,Thunder
+PROCESS-NAME,Transmission
+PROCESS-NAME,uTorrent
+PROCESS-NAME,uTorrent Web
+PROCESS-NAME,WebTorrent
+PROCESS-NAME,WebTorrent Helper
