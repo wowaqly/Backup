@@ -32,3 +32,4 @@ PROCESS-NAME,uTorrent
 PROCESS-NAME,uTorrent Web
 PROCESS-NAME,WebTorrent
 PROCESS-NAME,WebTorrent Helper
+PROCESS-NAME,Mail
