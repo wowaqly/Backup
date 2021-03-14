@@ -6,3 +6,8 @@ payload:
   - DOMAIN-SUFFIX,gaoqing.fm
   - DOMAIN,mk.tianziyu.com
   - DOMAIN-SUFFIX,cdn-apple.com
+  - DOMAIN-SUFFIX,alibabadns.com
+  - DOMAIN-SUFFIX,alicloudccp.com
+  - DOMAIN-SUFFIX,aliyuncs.com
+  - DOMAIN-SUFFIX,aliyundrive.com
+  - DOMAIN-SUFFIX,aliapp.org
